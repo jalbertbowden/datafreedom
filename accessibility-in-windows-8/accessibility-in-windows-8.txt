@@ -1,0 +1,1068 @@
+
+Accessibility in Windows 8 
+Overview of accessibility in Windows 8, tutorials, and keyboard shortcuts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Published by Microsoft Corporation, Trustworthy Computing
+One Microsoft Way
+Redmond, Washington 98052
+Copyright ? 2012 Microsoft Corporation. All rights reserved. No part of the contents of this document may be reproduced or transmitted in any form or by any means without the written permission of the publisher. For permissions, visit www.microsoft.com. 
+Microsoft and Windows are trademarks of Microsoft Corporation in the United States and/or other countries. Find further information on Microsoft Trademarks (http://www.microsoft.com/about/legal/en/us/IntellectualProperty/Trademarks/EN-US.aspx).
+
+Table of Contents
+Overview of Accessibility in Windows 8	7
+What’s new in Windows 8 accessibility	7
+Narrator and touch-enabled devices	7
+Magnifier and touch-enabled devices	9
+Ease of Access	12
+Make your PC easier to use	12
+Customizing the Ease of Access page	12
+Choosing more tools and settings in the Ease of Access Center	14
+Get recommendations for Ease of Access settings	16
+Make the text on your screen larger or smaller	16
+Hear text read aloud with Narrator	17
+Starting Narrator	17
+New touch gestures	18
+New keyboard shortcuts	18
+Narrator settings	18
+Using Speech Recognition	22
+Set up Speech Recognition	23
+Using Speech Recognition	24
+Controlling your PC with Speech Recognition	25
+Dictation	26
+Keyboard keys	27
+Punctuation marks and special characters	27
+Controls	29
+Windows	30
+Tap or click anywhere on the screen	30
+Use Magnifier to see items on the screen	31
+Using Magnifier	31
+Changing Magnifier views	31
+Customizing Magnifier	32
+Use the On-Screen Keyboard (OSK) to type	32
+To open On-Screen Keyboard	33
+Use text or visual alternatives to sounds	34
+To change your settings	34
+Personalization	35
+Personalize your PC	35
+Change your background, colors, and account picture	35
+Themes and desktop backgrounds	36
+Customize the Start screen	36
+Create tiles for your favorite people and places	36
+Pin or unpin apps	36
+Rearrange and resize tiles	37
+Rearranging tiles on Start	37
+Get started with themes	38
+What's a theme?	38
+Creating themes	39
+Where is Control Panel?	42
+How to use the taskbar	44
+Rearrange taskbar buttons	44
+Move the taskbar	44
+Change how taskbar buttons appear	45
+Pin an app to the taskbar	46
+Customize the notification area	46
+Take a look at the desktop	47
+Change taskbar settings for multiple displays	48
+Adding apps, websites, and more to Start	49
+Connect multiple monitors to your PC	50
+Connect another screen to your PC	51
+Set up your screens	51
+Sync your settings	51
+Mouse and Keyboard	52
+Mouse and keyboard: What's new in Windows	52
+How to use the touch keyboard	55
+Touch: swipe, tap, and beyond	56
+Touch and pen settings: Frequently asked questions	60
+How do I check if my PC has a touchscreen?	60
+How do I calibrate my pen and touch settings?	61
+How do I get my touchscreen to go to the correct screen?	61
+How do I change my pen and touch actions?	62
+Change keyboard settings	63
+Change the keyboard layout	64
+To change the keyboard layout for a language	64
+Change mouse settings	65
+To change the mouse settings	65
+Use the numeric keypad to move the mouse pointer	65
+To turn on Mouse Keys	65
+Moving the pointer using Mouse Keys	66
+Selecting a mouse button	66
+Clicking items using Mouse Keys	66
+Dragging items using Mouse Keys	67
+Keyboard Shortcuts	68
+New keyboard shortcuts for Windows 8 and Windows RT	68
+Useful keyboard shortcuts for Windows	68
+Complete list of keyboard shortcuts	69
+General keyboard shortcuts	69
+Dialog box keyboard shortcuts	71
+File Explorer keyboard shortcuts	71
+Taskbar keyboard shortcuts	72
+Windows logo key keyboard shortcuts	73
+Calculator keyboard shortcuts	76
+Calendar keyboard shortcuts	78
+Ease Of Access keyboard shortcuts	79
+Internet Explorer keyboard shortcuts	79
+Magnifier keyboard shortcuts	79
+Mail keyboard shortcuts	80
+Messaging keyboard shortcuts	81
+Narrator keyboard shortcuts	82
+Narrator touch keyboard shortcuts	83
+Paint keyboard shortcuts	83
+People App keyboard shortcuts	84
+Reader keyboard shortcuts	84
+Remote Desktop Connection on the desktop keyboard shortcuts	85
+Remote Desktop Connection keyboard shortcuts	86
+Skydrive keyboard shortcuts	86
+Windows Help viewer keyboard shortcuts	86
+Windows Journal keyboard shortcuts	87
+Wordpad keyboard shortcuts	88
+
+
+
+Overview of Accessibility in Windows 8
+The built-in assistive technologies in Windows 8 work with both Windows 8 applications and with desktop software to provide seamless access to the entire Windows experience. 
+Devices running Windows 8 Professional will also allow you to use assistive technology (AT) software from specialty Assistive Technology vendors (http://www.microsoft.com/enable/at/).
+What’s new in Windows 8 accessibility
+One of the most exciting aspects of Windows 8 is the introduction of touch-only devices. With touch devices, you can directly interact with everything on your screen by touch, without using a keyboard or mouse, including managing accessibility options in the Ease of Access Center.
+With Windows 8 you can easily access the most commonly used accessibility options right from the sign-in screen. Select the Ease of Access button  in the lower-left corner of your screen, or press the Windows logo key+U, to choose the settings for your PC that you want to have available each time it starts. Learn more in the Ease of Access section below.
+Narrator and touch-enabled devices
+Narrator, a basic screen reader that reads aloud the text that appears on screen, and describes events such as error messages, has been redesigned in Windows 8 to be substantially faster, and to support many new features. 
+Whether you’re an individual who is blind, has low vision, or who is fully sighted, you will be able to use Windows 8 from the first time you start your device. 
+By default on touch-only devices, Narrator can be launched by simply holding down the Windows logo button  and pressing the Volume Up button. Once Narrator is running, you can use Narrator’s built-in touch commands to explore the screen and control your device. 
+There are also some new configuration options for Narrator in Windows 8. You can select one of several voices, change the speed at which Narrator speaks, create customizable keyboard commands, and specify many other settings to suit your preferences.
+Depending upon what device you use, and how you configure accessibility utilities on that device, there are different ways to start Narrator. These are the three shortcuts many people prefer:
+• On the sign-in screen, press the Windows logo key +U or click the Ease of access  button in the 
+lower-left corner, and then choose Narrator.
+• On a keyboard, press the Windows logo key +Enter.
+• On a touch-only device, hold down the Windows logo  button and press the Volume Up button.
+Learn more about using Narrator in Windows 8, in the Ease of Access section below.
+
+
+Narrator Settings screen used to configure how Narrator starts, navigation, voice, and other command settings.
+
+
+Magnifier and touch-enabled devices
+Magnifier is a tool that enlarges your screen, or portions of your screen, making words and images easier to see. For users with low vision who have trouble seeing their devices, Magnifier makes it easier to see the screen and touch it too.
+
+Magnifier lens view in Windows 8.
+If you use a touch-enabled device you can control Magnifier from the edges of your screen. To start Magnifier on a touch-enabled device you first will need to designate Magnifier as the start option when pressing the Windows logo button+Volume up in the Ease of Access settings.
+
+Ease of Access settings screen where you can select which accessibility tool to open with the keyboard shortcut Windows logo+Volume Up.
+Once magnifier has been started on your touch-enabled device, a border will appear around the edges of the magnified screen. You can use these borders to move around the entire screen and it will work with all of your Windows 8 and desktop applications. Simply drag your finger along a border to move Magnifier in that direction. When the border disappears, you are at the edge of the screen.
+By pressing the plus (+) and minus (-) buttons in the corners of the screen, you can zoom in or out to a size that best suits your preference. You can also quickly change the zoom level by moving two fingers closer together or farther apart on one of the borders.
+To help keep track of your location on the screen, Magnifier has a preview feature that shows you exactly where you are in the context of the entire screen. To see the preview, tap with a thumb or finger on opposite borders at the same time. The currently magnified window will zoom out and highlight the part of the screen you are viewing. After a few seconds it will zoom back to the currently highlighted location. When viewing the preview, you can also drag the highlighted region to quickly move Magnifier around the screen.
+Learn more about using Magnifier in Windows 8 in the Ease of Access section below.
+
+Ease of Access and Personalization options on your computer
+The following sections of this document provide information on how to make your device easier to see, hear, and use with settings and options in Ease of Access and Personalization in Windows 8 Professional.  It also provides direction on accessing options using your mouse; or touch, for touch-only devices; and, provides a complete list of keyboard shortcuts for those who access their computers through the keyboard. Find more information about Windows 8 Accessibility on the Microsoft Accessibility website (www.microsoft.com/enable/), and on the Microsoft Windows website (http://windows.microsoft.com/).
+Important
+Windows RT only supports the installation of apps through the Windows Store. Windows 8, or Windows 8 Professional, is required for individuals using assistive technology software or devices. Be sure to check with your assistive technology manufacturer (www.microsoft.com/enable/at/matvplist.aspx) regarding compatibility before purchasing a new Windows 8 device.
+
+
+Ease of Access
+Windows offers several programs and settings that can make the computer easier and more comfortable to use. This section tells you how to find and set up accessibility options whether you use a mouse and keyboard, or a touch-enabled computer.
+Make your PC easier to use
+There’s no single best way to set up your PC. Everyone works differently so Windows 8 provides a variety of ways to change your settings so you can use your PC the way you want.
+Note:
+•	The most commonly used accessibility options are available from the sign-in screen. Click the 	Ease of Access button  in the lower-left corner to choose those settings for your PC that you 	want to have available each time it starts.
+•	For more information about these and other assistive technologies, go to the Microsoft 	Accessibility website (http://www.microsoft.com/enable/).
+Customizing the Ease of Access page
+You can find a few more settings on the Ease of Access page—a convenient summary page where you can change common settings.
+1. Swipe in from the right edge of the screen, and then tap Search.
+(If you're using a mouse, point to the upper-right corner of the screen, move the mouse pointer down, and then click Search.)
+2. Enter Ease of Access in the search box, tap or click Settings, and then tap or click Ease of Access in 
+the results.
+
+Search box with ease of access typed and Settings selected.
+
+Results of a search on “ease of access” with the Ease of Access control highlighted. 
+Here are the settings you'll find on the Ease of Access page:
+1. High contrast. If it’s hard to read text on your screen, you can change the theme of your PC to a color combination that’s easier to read.
+2. Make everything on your screen bigger. If things on your screen are too small to read, you can use this setting to magnify everything on the screen.
+3. Pressing Windows+Volume Up. This works on newer laptops and tablets. First, choose a setting (Narrator, Magnifier, or On-Screen Keyboard), and then turn it on with a quick press of the Windows logo button and Volume Up button together.
+4. Show notifications for. If you find that notifications appear and disappear too quickly, you can change how long they’re visible—so you have time to read and react to them.
+5. Cursor thickness. If the cursor is too small for you and hard to spot on the screen, use this setting to change its thickness.
+Choosing more tools and settings in the Ease of Access Center
+The Ease of Access Center in Windows 8 Professional gives you the most control for customizing your accessibility settings.
+1. Swipe in from the right edge of the screen, and then tap Search.
+(If you're using a mouse, point to the upper-right corner of the screen, move the mouse pointer down, and then click Search. Or, from the Start screen, press the Windows logo key + C.)
+2. Enter current accessibility settings in the search box, tap or click Settings, and then tap or click View current accessibility settings.
+The first section in the Ease of Access Center includes quick access to four common tools:
+• Magnifier. This enlarges part—or all—of the screen, so it’s easier to read. For more info, see Use Magnifier to see items on screen.
+• Narrator. This is a screen reader that reads the text on your screen aloud. For more info, see Hear text read aloud with Narrator.
+• On-Screen Keyboard. This lets you use your mouse or other pointing device to interact with a keyboard on the screen.
+• High Contrast. This heightens the color contrast of some text and images on your screen, which helps make those items easier to identify.
+The second section of the Ease of Access Center lists all of the other settings you can use.
+• Use the computer without a display. Here, you can turn on Narrator, turn on audio descriptions for videos, set up Text to Speech, and change how long dialog boxes stay open.
+• Make the computer easier to see. If you occasionally have trouble-seeing items on your screen, adjust these settings to make the screen easier to see. You can change to a high contrast theme, turn on Magnifier, adjust colors, and remove unnecessary animations and background images.
+• Use the computer without a mouse or keyboard. Windows includes an on-screen keyboard that lets you enter text by selecting characters on the screen. You can also use Speech Recognition to control your PC with voice commands, and dictate text into programs. For more info, see Using Speech Recognition.
+• Make the mouse easier to use. This setting lets you change the size and color of the mouse pointer, and use the numeric keypad to control the mouse.
+• Make the keyboard easier to use. You can adjust the way Windows responds to mouse or keyboard input so that key combinations are easier to press, typing is easier, and accidental keystrokes are ignored.
+• Use text or visual alternatives for sounds. Windows can replace system sounds with visual cues and display text captions for spoken dialog in multimedia programs. 
+• Make it easier to focus on tasks. These settings include a number of ways to help you focus on reading and typing. Use them to turn on Narrator, adjust how the keyboard responds to certain keystrokes, and change the way certain visual elements are displayed.
+• Make touch and tablets easier to use. When you choose this option, Narrator starts automatically when you press the Windows logo button and Volume Up button together. You can change this so Magnifier or On-Screen Keyboard starts instead.
+
+Get recommendations for Ease of Access settings
+If you're not sure which settings to use, fill out the Ease of Access questionnaire to get recommendations.
+1. Swipe in from the right edge of the screen, and then tap Search.
+(If you're using a mouse, point to the upper-right corner of the screen, move the mouse pointer down, and then click Search.)
+2. Enter current accessibility settings in the search box, tap or click Settings, and then tap or click View current accessibility settings.
+3. Tap or click Get recommendations to make your computer easier to use.
+Make the text on your screen larger or smaller
+You can make the text (and other things like icons) larger without changing the screen resolution of your monitor or laptop screen. That way, you can make text easier to see and still keep your monitor or laptop set to the best possible resolution.
+1. Open Screen Resolution by swiping in from the right edge of the screen, tapping Search (or if you're using a mouse, pointing to the upper-right corner of the screen, moving the mouse pointer down, and then clicking Search), entering Display in the search box, tapping or clicking Settings, and then tapping or 
+clicking Display.
+2. Choose one of the following:
+? Smaller - 100% (default). This keeps text and other items at normal size.
+? Medium - 125%. This sets text and other items to 125% of normal size.
+? Larger - 150%. This sets text and other items to 150% of normal size. This option appears only if your monitor supports a resolution of at least 1200 x 900 pixels.
+3. Tap or click Apply.
+To see the new text size, close all of your apps, and then sign out of Windows. The change will take effect the next time you sign in.
+Also, you can change the text size for specific items in Windows, like window title bars or tooltips, without changing the size of anything else on the screen.
+• Open Screen Resolution by swiping in from the right edge of the screen, tapping Search (or if you're using a mouse, pointing to the upper-right corner of the screen, moving the mouse pointer down, and then clicking Search), entering Display in the search box, tapping or clicking Settings, and then tapping or 
+clicking Display.
+• Under Change only the text size, choose the item you'd like to change and pick a text size. If you want the text to be bold, select the Bold check box.
+• Tap or click Apply.
+You'll see the change the next time you sign in to Windows.
+You can also make text appear larger or smaller by changing your screen resolution, but if you're using an LCD monitor or laptop, it's a good idea to set your screen to its native resolution to avoid blurry text. This is the resolution that a monitor or laptop screen was designed to display based on its size. For more info, see Get the best display on your monitor.
+Note:
+You can't change the default font or font color used for items in Windows (like window title bars, menus, or tooltips). But you can change the color of your window borders and taskbar, or use a High Contrast Theme to make the items on your screen easier to see. For more info, see Get started with themes.
+Hear text read aloud with Narrator
+Narrator is a screen reader that reads text on the screen aloud and describes events like error messages so you can use your computer without a display.
+Starting Narrator
+There are different ways to start Narrator. These are the three shortcuts many people prefer:
+• On a keyboard, press the Windows logo key +Enter.
+• On a tablet, press the Windows logo button and Volume Up button together.
+• On the sign-in screen, press the Windows logo key +U or click the Ease of access  button in the 
+lower-left corner and choose Narrator.
+Note:
+If you want to quickly exit Narrator, press Caps Lock+Esc.
+Another way to get to Narrator is to use search:
+1. Swipe in from the right edge of the screen, and then tap Search.
+(If you're using a mouse, point to the upper-right corner of the screen, move the mouse pointer down, and then click Search.)
+2. Enter Narrator in the search box, tap or click Apps, and then tap or click Narrator.
+Note:
+•	If you want to get started right away, after you open Narrator, press the Caps Lock key+F1. This 	keyboard combination will show you all of the Narrator commands.
+•	If you want to use Caps Lock to capitalize letters while you're using Narrator, press the Caps 	Lock key twice in quick succession.
+
+New touch gestures
+Windows 8 and Windows RT have new actions and new locations for common commands. Here are a few important gestures to get you started.
+Use this touch gestureTo do thisSwipe in from the right edge with one fingerOpen the charms (Search, Share, Start, Devices, Settings)Swipe in from the left edge with one fingerSwitch apps, snap them to the side, and close themSwipe in from the top or bottom edge with 
+one fingerShow app commands like Save, Edit, and DeleteNote:
+The press and hold gesture isn't supported in Narrator.
+New keyboard shortcuts
+Windows 8 and Windows RT have new keyboard shortcuts too. Here are a few helpful ones. To find the rest, go to Keyboard shortcuts.
+Use this keyboard shortcutTo do thisWindows logo key? +COpen the charms (Search, Share, Start, Devices, Settings)Windows logo key? +ZShow app commands like Save, Edit, and DeleteWindows logo key? +periodSnap apps to the sideWindows logo key? +Tab or Alt+TabSwitch appsNarrator settings
+Here are some of the main settings you might want to use:
+General
+• Lock the Narrator key so you don’t have to press it for each command (Caps Lock). When you choose this option, you won’t have to use the Caps Lock key with the Narrator keys. For example, instead of pressing Caps Lock key+F1, you can simply press F1.
+Note:
+On a 106 keyboard, Ctrl+Alt+Z won't lock the Narrator key.
+• Start Narrator minimized. This option keeps the Narrator window out of your way.
+• Echo keyboard keystrokes while typing. You can choose whether or not Narrator reads each key you type.
+• Read out voiced Narrator errors. Choose this option if you want Narrator to read the actual error in addition to playing an error tone.
+• Enable visual highlighting of Narrator cursor. This option lets you show or hide the box that highlights where Narrator is on your screen.
+• Play audio cues. This option lets you turn on or off the extra sounds that Narrator plays when you do 
+certain actions.
+• Read hints for common items. This option controls whether Narrator will read hints about how to interact with common items such as buttons, links, list items, and sliders.
+• Lower the volume of other apps when Narrator is running. This option makes other apps quieter so it's easier to hear Narrator.
+• Retain notifications to be read for. This drop-down menu lets you control how long notifications will be retained for being read by Narrator.
+• Control whether Narrator starts automatically. This link takes you to the Ease of Access Center where you can choose to have Narrator on automatically.
+Navigation
+• Read and interact with the screen using the mouse. This option controls whether Narrator mouse mode is on. When mouse mode is on, Narrator will read what’s currently under your mouse cursor. 
+• Activate keys on the touch keyboard when you lift your finger. If touch mode is on, you can turn on this setting so you can type faster using the touch keyboard. With this setting, you can drag to find the item you're looking for and lift your finger to press the key.
+• Enable the Narrator cursor to follow the keyboard focus. This adds a blue box to your screen that moves with the keyboard focus, so that if you tab through items the Narrator cursor will follow.
+Voice
+• Select the speed, volume, or pitch of the voice. You can customize the voice with these three sliders.
+• Select a different voice for Narrator. With this drop-down menu you can select different types of voices in Narrator, if they are available in your language.
+Commands
+• Click this option to see a list of existing shortcut keys for Narrator. You can always change these shortcuts if you like. The most important keyboard shortcut to know is Caps Lock+F1. Pressing this keyboard combination will show all Narrator commands. For reference, the following table lists the commands too.
+Use this keyboard shortcutTo do thisCtrlStop readingCaps Lock+EscExit NarratorCaps Lock+SpaceDo primary actionCaps Lock+Right arrowMove to next timeCaps Lock+Left ArrowMove to previous itemCaps Lock+Up arrowChange viewCaps Lock+Down arrowChange viewCaps Lock+F1Show commands listCaps Lock+F2Show commands for current itemCaps Lock+F3Jump to next cell in rowCaps Lock+Shift+F3Jump to previous cell in rowCaps Lock+F4Jump to next cell in columnCaps Lock+Shift+F4Jump to previous cell in columnCaps Lock+F5Read which row and column Narrator is inCaps Lock+F6Jump to table cellCaps Lock+F7Read current columnCaps Lock+F8Read current rowCaps Lock+F9Read current column headerCaps Lock+F10Read current row headerCaps Lock+F11Toggle touch mode on/offCaps Lock+F12Toggle keystroke announcementsCaps Lock+ZLock Narrator KeyCaps Lock+XPass keys to appCaps Lock+VRepeat last phraseCaps Lock+Page UpIncrease voice volumeCaps Lock+Page DownDecrease voice volumeCaps Lock+PlusIncrease voice speedCaps Lock+MinusDecrease voice speedCaps Lock+DRead itemCaps Lock+FRead item advancedCaps Lock+SRead item spelled outCaps Lock+WRead WindowCaps Lock+RRead all items in containing areaCaps Lock+QMove to last item in containing areaCaps Lock+GMove Narrator cursor to system cursorCaps Lock+TMove Narrator cursor to pointerCaps Lock+TildeSet focus to itemCaps Lock+BackspaceGo back one itemCaps Lock+InsertJump to linked itemCaps Lock+MStart readingCaps Lock+Close bracketRead text from start to cursorCaps Lock+ORead text attributesCaps Lock+HRead documentCaps Lock+URead next pageCaps Lock+Ctrl+URead current pageCaps Lock+Shift+URead previous pageCaps Lock+IRead next paragraphCaps Lock+Ctrl+IRead current paragraphCaps Lock+Shift+IRead previous paragraphCaps Lock+ORead next lineCaps Lock+Ctrl+ORead current lineCaps Lock+Shift+ORead previous lineCaps Lock+PRead next wordCaps Lock+Ctrl+PRead current wordCaps Lock+Shift+PRead previous wordCaps Lock+Open bracketRead next characterCaps Lock+Ctrl+Open bracketRead current characterCaps Lock+Shift+Open bracketRead previous characterCaps Lock+JJump to next headingCaps Lock+Shift+JJump to previous headingCaps Lock+KJump to next tableCaps Lock+Shift+KJump to previous tableCaps Lock+LJump to next linkCaps Lock+Shift+LJump to previous linkCaps Lock+YMove to beginning of textCaps Lock+BMove to end of textCaps Lock+NRewind while reading a documentCaps Lock+CommaFast-forward while reading a documentCaps Lock+CRead current date/time
+
+If you have a new PC that supports four or more contact points, you can use touch commands to control your PC.
+Use this touch commandTo do thisTap once with two fingersStop Narrator from readingTap three times with four fingersShow all Narrator commands (including ones not in this list)Double-tap or hold with one finger and tap anywhere with a secondActivate primary actionTriple-tap or hold with one finger and double-tap 
+with a secondActivate secondary actionHold with one finger and tap with two othersStart dragging or extra key optionsTap with three fingersShow/hide Narrator settings windowTap with four fingersShow commands for current itemTap or drag a single fingerRead what's under your fingerDouble-tap with four fingersToggle search modeTriple-tap with four fingersShow Narrator commands listFlick left/right with one fingerMove to next or previous itemFlick up/down with one fingerChange move incrementSwipe left/right/up/down with two fingersScrollSwipe left/right with three fingersTab forward and backwardSwipe down with three fingersStart reading explorable textSwipe up with three fingersRead current windowNote:
+•	Narrator provides basic screen-reading capabilities so you can use Windows when you don't 	have a more comprehensive screen reader. Narrator isn't designed to read content in all apps. 	For more info about screen readers and other assistive technologies, go to the 
+	Microsoft Accessibility (www.microsoft.com/enable/) website.
+•	TTS support in Narrator is available in Cantonese, English (United States and United Kingdom), 	French, German, Japanese, Korean, Mandarin, and Spanish.
+Using Speech Recognition
+Windows Speech Recognition makes using a keyboard and mouse optional. You can control your PC with your voice and dictate text instead.
+Note:
+Speech Recognition isn't available in all languages.
+Set up Speech Recognition
+There are a few steps you need to take before you can start using Speech Recognition. First, you’ll need to set up a microphone. Next, it’s a good idea to take the tutorial to learn how to use Speech Recognition effectively. Finally, you can train your PC to recognize your voice.
+To set up a microphone
+Before you set up Speech Recognition, make sure you've plugged the microphone into your PC so the following steps work.
+1. Swipe in from the right edge of the screen, and then tap Search.
+(If you're using a mouse, point to the upper-right corner of the screen, move the mouse pointer down, and then click Search.)
+2. Enter set up a microphone in the search box, tap or click Settings, and then tap or click Set up a microphone.
+3. Follow the instructions on the screen.
+Note:
+If possible, use a headset microphone; it's less likely to pick up background noise.
+To take the tutorial
+The tutorial that comes with Speech Recognition takes about 30 minutes to complete, and it’s a good use of time. It teaches you the voice commands used in Speech Recognition.
+1. Swipe in from the right edge of the screen, and then tap Search.
+(If you're using a mouse, point to the upper-right corner of the screen, move the mouse pointer down, and then click Search.)
+2. Enter speech recognition in the search box, tap or click Settings, and then tap or click Speech Recognition.
+3. Tap or click Take Speech Tutorial.
+4. Follow the instructions in the Speech Recognition Tutorial.
+To train your pc to recognize your speech
+Speech Recognition uses a special voice profile to recognize your voice and spoken commands. The more you use Speech Recognition, the more detailed your voice profile becomes—and that should improve your PC's ability to understand you.
+1. Swipe in from the right edge of the screen, and then tap Search.
+(If you're using a mouse, point to the upper-right corner of the screen, move the mouse pointer down, and then click Search.)
+2. Enter speech recognition in the search box, tap or click Settings, and then tap or click Speech Recognition.
+3. Tap or click Train your computer to better understand you.
+4. Follow the instructions in the Speech Recognition Voice Training.
+Using Speech Recognition
+You can use your voice for many things, such as filling out online forms or typing letters. When you speak into the microphone, Speech Recognition changes your spoken words into text on the screen.
+To dictate text using speech recognition
+1. Swipe in from the right edge of the screen, and then tap Search.
+(If you're using a mouse, point to the upper-right corner of the screen, move the mouse pointer down, and then click Search.)
+2. Enter speech recognition in the search box, tap or click Apps, and then tap or click Windows Speech Recognition.
+3. Say "start listening," or tap or click the Microphone button to start the listening mode.
+4. Open the app you want to use, or select the text box you want to dictate text into.
+5. Say the text you want to dictate.
+To correct mistakes
+You can correct mistakes in three different ways.
+1. To correct the last thing you said, say "correct that."
+2. To correct a single word, say "correct" followed by the word that you want to correct. If the word appears more than once, all instances will be highlighted, and you can choose the one you want to correct.
+3. In the Alternates panel dialog box, say the number next to the item you want, and then say "OK."
+To add or change words in the speech dictionary
+Using the Speech Dictionary, you can add your own words, stop a specific word from being dictated or corrected or delete a word in the dictionary.
+1. Swipe in from the right edge of the screen, and then tap Search.
+(If you're using a mouse, point to the upper-right corner of the screen, move the mouse pointer down, and then click Search.)
+2. Enter speech recognition in the search box, tap or click Apps, and then tap or click Windows Speech Recognition.
+3. Say "start listening," or tap or click the Microphone button to start the listening mode.
+4. Say "open Speech Dictionary" and do any of the following:
+? To add a word to the dictionary, say "Add a new word," and then follow the instructions.
+? To prevent a specific word from being dictated, say "Prevent a word from being dictated," and then follow the instructions.
+? To correct or delete a word that is already in the dictionary, say "Change existing words," and then follow the instructions.
+Controlling your PC with Speech Recognition 
+You can use simple, short commands to control your PC. The following table shows some of the most commonly used Speech Recognition commands. Words in italics mean you can replace the example word or phrase with similar words and get useful results.
+Note:
+Any time you need to find out what commands to use, say "what can I say?"
+To do thisSay thisSelect any item by its nameClick File; Start; ViewSelect any item or iconClick Recycle Bin; Click Computer; Click file nameDouble tap or double-click any itemDouble-click Recycle Bin; Double-click Computer; Double-click file nameSwitch to an open appSwitch to Paint; Switch to WordPad; Switch to program name; Switch application Scroll in one directionScroll up; Scroll down; Scroll left; Scroll rightInsert a new paragraph or new line in a documentNew paragraph; New lineSelect a word in a documentSelect wordSelect a word and start to correct itCorrect wordSelect and delete specific wordsDelete wordShow a list of applicable commandsWhat can I say?Update the list of speech commands that are 
+currently availableRefresh speech commandsTurn on listening modeStart listeningTurn off listening modeStop listeningMove the Speech Recognition microphone barMove speech recognitionMinimize the microphone barMinimize speech recognitionView Windows Help and Support content about specific tasksHow do I do something?
+For example, say “How do I install a printer?” and a list of Help topics is returned.
+Note that this command is available only if you're using the U.S. English Speech Recognizer.
+
+Dictation
+To do thisSay thisInsert a new line in the documentNew lineInsert a new paragraph in the documentNew paragraphInsert a tabTabInsert the literal word for the next command (for example, you can insert the word "comma" instead of the punctuation mark)Literal wordInsert the numeral form of a numberNumeral numberPut the cursor before a specific wordGo to wordPut the cursor after a specific wordGo after wordDon't insert a space before the next wordNo spaceGo to the start of the sentence that the cursor is inGo to start of sentenceGo to the start of the paragraph that the cursor is inGo to start of paragraphGo to the start of the documentGo to start of documentGo to the end of the sentence that the cursor is inGo to end of sentenceGo to the end of the paragraph that the cursor is inGo to end of paragraphGo to the end of the current documentGo to end of documentSelect the word in the current documentSelect wordSelect the word range in the current documentSelect word range; Select word through wordSelect all text in the current documentSelect allSelect a number of words before the location of the cursorSelect previous 20 words; Select previous 10 wordsSelect a number of words after the location of the cursorSelect next 20 words; Select next 10 wordsSelect the last text you dictatedSelect thatClear the selection on the screenClear selectionCapitalize the first letter of the wordCaps wordCapitalize all the letters of the wordAll caps wordMake all the letters in the word lowercaseNo caps wordChange the next number of words to uppercaseChange next 10 words to uppercaseChange the next number of words to lowercaseChange next 10 words to lowercaseDelete the previous sentenceDelete previous sentenceDelete the next sentenceDelete next sentenceDelete the previous paragraphDelete previous paragraphDelete the next paragraphDelete next paragraphDelete the selected or last dictated textDelete thatKeyboard keys 
+To do thisSay thisPress any key on the keyboardPress keyboard key; Press a; Press capital b; Press Shift plus a; 
+Press Ctrl plus aPress certain keyboard keys without saying "press" firstDelete; Backspace; Enter; Page Up; Page Down; Home; End; TabNote:
+•	You can also use the ICAO\NATO phonetic alphabet to say the keyboard keys to press. For 	example, you can say "press alpha" to press "a" or "press bravo" to press "b."
+•	Using Speech Recognition to press keyboard keys works only with languages that use 
+	Latin alphabets.
+Punctuation marks and special characters 
+To insert thisSay this,Comma;Semicolon.Period; Dot; Decimal point:Colon“Open double quote; Open quote”Close double quote; Close quote; Close inverted commas'Apostrophe‘Open single quote’Close single quote>Greater than sign<Less than sign/Forward slash\Backslash~Tilde@At sign!Exclamation mark; Exclamation point?Question mark #Number sign; Pound sign$Dollar sign%Percent sign^Caret(Open parenthesis; Open paren)Close parenthesis; Close paren_Underscore-Hyphen; Minus sign; Dash–En dash—Em dash=Equal sign+Plus sign{Open brace; Open curly bracket}Close brace; Close curly bracket[Open bracket; Open square bracket]Close bracket; Close square bracket|Vertical bar:-)Smiley face:-(Frowny face;-)Winky face™Trademark sign¾Three quarter sign¼One quarter sign½One half sign£Pound sterling sign&Ampersand; And sign*Asterisk//Double slash`Back quote<Open angle bracket>Close angle bracket±Plus or minus sign«Open angle quote»Close angle quote×Multiplication sign÷Division sign¢Cent sign¥Yen sign§Section sign©Copyright sign®Registered sign, Registered trademark sign°Degree sign¶Paragraph sign…Ellipsis; Dot dot dotƒFunction signControls
+To do thisSay thisSelect any item by saying 
+its nameFile; Edit; View; SaveSelect any itemClick File; Click Bold; Click Save; Click CloseDouble-tap or double-click 
+any itemDouble-click Computer; Double-click Recycle Bin; Double-click folder namePress and hold or right-click 
+any itemRight-click Computer; Right-click Recycle Bin; Right-click folder nameMinimize all windows to show your desktopShow desktopSelect something if you don't know what it's calledShow numbers (Numbers will appear on the screen for every item in the active window. Say an item's corresponding number to select it.)Select a numbered item19 OK; 5 OKDouble-tap or double-click 
+a numbered itemDouble-click 19; Double-click 5Press and hold or right-click 
+a numbered itemRight-click 19; Right-click 5Windows 
+To do thisSay thisOpen an appOpen Paint; Open WordPad; Open app nameSwitch to an open appSwitch to Paint; Switch to WordPad; Switch to app name; Switch applicationClose an appClose that; Close Paint; Close DocumentsMinimizeMinimize that; Minimize Paint; Minimize DocumentsMaximizeMaximize that; Maximize Paint; Maximize DocumentsRestoreRestore that; Restore Paint; Restore DocumentsCutCut that; CutCopyCopy that; CopyPastePasteDeleteDelete that; DeleteUndoUndo that; Scratch that; UndoScroll in one directionScroll up; Scroll down; Scroll right; Scroll leftScroll an exact distance in pagesScroll down 2 pages; Scroll up 10 pagesScroll an exact distance in 
+other unitsScroll up 5; Scroll down 7Go to a field in a form or an appGo to field name; Go to Subject; Go to Address; Go to ccTap or click anywhere on the screen
+To do thisSay thisShow the mousegridMousegridMove the mouse pointer to the center of any mousegrid squareNumber of the square; 1, 7, 9Tap or click any mousegrid squareClick number of the squareSelect an item to drag with the mousegridNumber of the square where the item appears; 3, 7, 9 (followed by) markSelect an area in the mousegrid where you want to drag the itemNumber of the square where you want to drag; 4, 5, 6 (followed by) clickUse Magnifier to see items on the screen
+Magnifier is a useful tool that enlarges part—or all—of your screen so you can see the words and images better. It comes with a few different settings, so you can use it the way that suits you best.
+Using Magnifier
+You can open and close Magnifier quickly so it's handy when you need it and it's out of your way when you don't.
+To open Magnifier
+1. Swipe in from the right edge of the screen, and then tap Search.
+(If you're using a mouse, point to the upper-right corner of the screen, move the mouse pointer down, and then click Search.)
+2. Enter Magnifier in the search box, tap or click Apps, and then tap or click Magnifier.
+Magnifier will open in Full-screen view unless you change the settings.
+To close Magnifier
+• To exit Magnifier quickly, press the Windows logo key + Esc. You can also tap or click the magnifying glass icon , and then tap or click the Close button on the Magnifier toolbar.
+Note:
+•	If you want to have Magnifier always at your fingertips, you can pin it to the Start screen or 	taskbar. For more info, see How to use the taskbar.
+•	Some people want to change the clarity or size of the words and images on the screen. If this is 	what you want to do, you can use the app to zoom in on a page or change your screen 	resolution. For more info about changing your screen resolution, see 
+	Get the best display on your monitor.
+Changing Magnifier views
+You can use Magnifier in a few ways, depending on how you like to work: Full-screen, lens, and docked. Try them all to find out which one you prefer.
+• Full-screen. In this view, your entire screen is magnified. You probably won’t be able to see the whole screen at the same time when it’s magnified, but as you move around the screen, you can see everything. If you have a touchscreen, Magnifier will display white borders around the edge of your screen. Drag your finger or mouse along the borders to move around the screen.
+• Lens. In this view, when you move around the screen, it’s like moving a magnifying glass around.
+• Docked. Docked view works on the Windows desktop. In this view, a magnifier is docked to portion of your screen. As you move around the screen, parts of the screen appear magnified in the docking area, even though the main part of the screen is unchanged.
+Customizing Magnifier
+You can change the way Magnifier works. For example, you can use the zoom buttons (  and  ) to change how much Magnifier enlarges your screen. Pressing Windows + Plus and Windows + Minus on your keyboard is another quick way to zoom in and out. You can also open the Magnifier options button  to 
+change Magnifier.
+Note:
+You can set Magnifier to follow your mouse, the insertion point, or the keyboard. Follow the instructions below to customize Magnifier.
+1. Swipe in from the right edge of the screen, and then tap Search.
+(If you're using a mouse, point to the upper-right corner of the screen, move the mouse pointer down, and then click Search.)
+2. Enter Magnifier in the search box, tap or click Apps, and then tap or click Magnifier.
+3. Go to the Windows Desktop and click the Magnifying glass .
+4. Click the Options button .
+5. Do one or more of the following:
+? Use the slider to choose a zoom increment. The percentage you choose here will be the increment by which Magnifier enlarges the screen when you press the zoom in button .
+? Select the Turn on color inversion check box to reverse colors on the screen. Sometimes reversing colors makes text easier to read.
+? Select a check box to choose how Magnifier focuses. Depending on your settings, Magnifier can follow your mouse, the insertion point, or the keyboard.
+Note:
+When you open Magnifier, the Magnifier toolbar appears briefly. It quickly gets out of your way, but you can display it again by clicking the magnifying glass icon on your screen or the Magnifier icon on the taskbar.
+Use the On-Screen Keyboard (OSK) to type
+There are a few different kinds of keyboards. The most common is a physical, external keyboard that you plug into your PC. A PC with a touchscreen also has a touch keyboard. When you’re using a Windows 8 or Windows RT PC with a touchscreen, tap in a text field or other area where you can type and the touch keyboard appears. For more info about the touch keyboard, see How to use the touch keyboard.
+Windows also has On-Screen Keyboard (OSK), an Ease of Access tool. You can use OSK instead of relying on the physical keyboard to type and enter data. You don’t need a touchscreen to use On-Screen Keyboard. OSK displays a visual keyboard with all the standard keys. You can select keys using the mouse or another pointing device, or you can use a physical single key or group of keys to cycle through the keys on the screen.
+To open On-Screen Keyboard
+1. Swipe in from the right edge of the screen, and then tap Search.
+(If you're using a mouse, point to the upper-right corner of the screen, move the mouse pointer down, and then click Search.)
+2. In the search box, enter On-Screen Keyboard, tap or click Apps, and then tap or click On-Screen Keyboard.
+Note:
+You can also open OSK from the sign-in screen. Click the Ease of Access button  in the lower-left corner to choose to have OSK open automatically every time you turn on your PC.
+To change how information is entered into On-Screen Keyboard
+• With OSK open, tap or click the OSK Options key, and then select the options you want:
+– Use click sound. Use this option if you want to hear a sound when you press a key.
+– Show keys to make it easier to move around the screen. Use this option if you want the keys to light up as you type.
+Turn on numeric keypad. Use this option to expand OSK to show a numeric keypad.
+Click on keys. Use this mode if you prefer to click or tap the on-screen keys to enter text.
+Hover over keys. Use this mode if you use a mouse or joystick to point to a key. The characters you point to are entered automatically when you point to them for a specified time. You can set the time in the Options 
+dialog box.
+Scan through keys. Use this mode if you want OSK to continually scan the keyboard. Scan mode highlights areas where you can type keyboard characters by pressing a keyboard shortcut, using a switch input device, or using a device that simulates a mouse click.
+Use Text Prediction. Use this option if you want OSK to suggest words for you as you type so you don't need to type each complete word.
+Note:
+•	Text prediction is available in English, French, Italian, German, and Spanish. To use text 	prediction in a specific language, first install additional language files for that language. 
+•	If you're using either hovering mode or scanning mode and accidently minimize On-Screen 	Keyboard, you can restore it by pointing to it in the taskbar (for hovering mode) or by pressing 	the scan key (for scanning mode).
+•	If you minimize OSK and switch to the Start screen or a full-screen app, you won't be able to get 	to OSK. Open OSK first, and then go to the Start screen or app.
+
+Use text or visual alternatives to sounds
+You can use visual cues rather than sounds in many apps by changing your PC settings.
+To change your settings
+1. Swipe in from the right edge of the screen, and then tap Search.
+(If you're using a mouse, point to the upper-right corner of the screen, move the mouse pointer down, and then click Search.)
+2. In the search box, enter Replace sounds with visual cues, tap or click Settings, and then tap or click Replace sounds with visual cues.
+3. Select the options that you want to use:
+? Turn on visual notifications for sounds. This option replaces system sounds with visual cues, such as a flash on the screen, so you can see notifications even when they're not heard. You can also choose how you want sound notifications to warn you.
+? Turn on text captions for spoken dialog. With this option, Windows will display text captions in place of sounds to indicate that activity is happening on your PC (for example, when a document starts or finishes printing).
+
+
+Personalization
+Personalize your PC
+If you spend a lot of time using your PC, you can make it reflect who you are and what you care about. Make yourself at home on the Start screen and arrange it to your liking. Create tiles for your favorite people or websites and drag them anywhere you want—or put similar tiles in their own group. Pin your favorite apps to the Start screen and remove the ones you don't use. You can even change the background and color on your Start screen to match your mood.
+With Windows, you can make your PC your own.
+
+Change your background, colors, and account picture
+In Windows 8 and Windows RT, there are a few new places to show your favorite pictures and colors. On the Start screen, you can change the background and color. The background shows up only on Start, but the color you pick shows up in a few other places too, like the charms and the sign-in screen. You can also make sure there's a favorite photo waiting to greet you on your lock screen, and choose a few apps to show you info and updates you might have missed while your PC was locked. And you can add some excitement to your account picture — if you have a webcam, you can create a video clip to use instead of a photo. Or if you have photo editing apps, you can use them to add some finishing touches to a photo.
+
+Here's how to try out these new picture and color options: 
+1. Open the Settings charm, and then tap or click Change PC settings. 
+2. Tap or click Personalize, and then change the options you want.
+Themes and desktop backgrounds
+All of the personalization settings you know and love are still here too, and you can still use them to personalize your desktop.
+Here's how to check out the brand new themes and desktop backgrounds:
+• Open the Search charm, enter personalization, and then tap or click Settings.
+• Tap or click Personalization. 
+• If you don't see something you like, you can download more themes, or even create your own, from this 
+same place.
+Customize the Start screen
+Just like you had a Start menu in Windows 7, you have a Start screen in Windows 8 and Windows RT. It has all of the info you care about in one place. You can just glance at the tiles to get the latest headlines, real-time updates, and info, or you can open apps, websites, contacts, and folders.
+Here are the quickest ways to get to Start:
+• With touch, swipe in from the right edge of your screen, and then tap Start.
+• With a mouse, move your pointer to the upper-right or lower-right corner, and then move it up or down and click Start. (Or, point to the lower-left corner, and click Start when it appears.) 
+• With a keyboard, press the Windows logo key . 
+So arrange Start any way you want it, and put your favorite apps, people, and websites front and center. Here are a few options you can try. 
+Create tiles for your favorite people and places
+A tile is an app or content (like a website, contact, or folder) that you can open from the Start screen. So if you have a website that you visit every day or people that you chat with all the time, you might want to create tiles for them on Start so you can get to them quickly. 
+When you come across a website, contact, or folder that you want to add to Start, here's how:
+• To pin a website or contact from an app, open the app commands and tap or click Pin to Start. 
+• To pin a folder, open it in File Explorer, press and hold or right-click it, and then tap or click Pin to Start. 
+Pin or unpin apps
+Some apps that are installed on your PC might not be pinned to Start. But you can always pin them if you want them there. On the Start screen, open the Search charm, select the app you want to pin to open its commands, and then tap or click Pin to Start. 
+And if there are apps you don't use, you can unpin them from Start. On the Start screen, select an app to open its commands, and then tap or click Unpin from Start. If you unpin an app, it's still installed on your PC, so you can always find it again with the Search charm. 
+Rearrange and resize tiles
+To move a tile, drag it up or down, and then drag it anywhere you want it. (You don't need to press and hold.) You can arrange the tiles any way you want. Put similar tiles together, group all your favorites, or create a "Work" group for the apps for your job. 
+Here's how to name a group of tiles:
+• Touch the Start screen with two or more fingers, and then pinch them toward each other to zoom out. (If you're using a mouse, click the Zoom button .) 
+• Select the group of tiles you want to name, and then tap or click Name Group. 
+• If a tile isn't fitting in the spot you want, you can make it larger or smaller. Just select the tile on the Start screen to open the app commands and then tap or click Larger or Smaller. (Some tiles can't be resized.)
+Rearranging tiles on Start
+In Windows 8 and Windows RT, you have lots of options to help you set up Start in a way that's right for you. You can create groups, show updates on tiles, and move tiles around for better access to your favorite people, websites, and more. Or, you can create a simple Start with just a few choices. Take a few minutes to move and resize tiles to see what works best for you.
+What you can doHow to do itRearrange tiles1. Slide the tile you want to change either up or down, and then drag it to a new position.
+2. (If you're using a mouse, click and drag the tile in any direction to a 
+new position.)
+3. If you want to quickly move it from one end of Start to the other, drag the tile down to the bottom of the screen. This shows all the tiles at once and makes it easy to move tiles longer distances.Group tiles together1. To start a new group, drag a tile to an open space. When a gray bar appears, release the tile.
+2. Slide and drag or click and drag more tiles next to the first tile.Name groups1. Pinch your fingers together on the Start screen or click the icon in the lower-right corner to zoom out and see all the tiles.
+2. To rearrange the groups, press and hold or click and drag the group, and then move it to a new position.
+3. Tap or right-click the group you want to name, and then tap or click 
+Name group.
+4. Enter a name, and then tap or click Name.Resize tiles (only available on some tiles)1. Swipe down on or right-click the tile you want to change.
+2. Tap or click Smaller or Larger to change its size. (A tile's color and font can't be changed.)Turn tile updates on or off (only available on 
+some tiles)1. Swipe down on or right-click the tile you want to change.
+2. Tap or click Turn live tile on or Turn live tile off to change its setting.Get started with themes
+In Windows, you can use themes to help make your desktop feel a little more like your own. Themes change the desktop background, window border color, sounds, and screen saver on your PC all at once, and you can switch between themes as often as you like. You can also create your own themes, and share them with friends 
+and family.
+What's a theme?
+A theme is a combination of pictures, colors, and sounds. Themes include:
+
+Parts of a theme
+• A desktop background. A picture, color, or design that acts as a backdrop to the open windows on your desktop. The desktop background can be a single picture or a slide show. You can choose from the desktop background pictures that come with Windows, or you can use your own pictures. 
+• A window border color. The color of your window borders and taskbar. A theme can include one specific window border color, or a color can be chosen automatically based on the colors in the desktop 
+background picture.
+• Sounds. A collection of related sounds that you hear when events happen on your PC. An event can be an action that you do, like signing in to your PC, or something that your PC does, like letting you know when you get a new email. 
+• A screen saver. A moving picture or pattern that appears on your PC screen when you haven’t used the mouse or keyboard for a certain period of time. The screen saver is turned off in the themes that come with Windows, but you can turn it on and add one to a theme. For more info about screen savers, see How to use screen savers.
+You can find all of your themes in Personalization in Control Panel. Tap or click any theme to apply it to 
+your desktop.
+Open Personalization by swiping in from the right edge of the screen, tapping Search (or if you're using a mouse, pointing to the upper-right corner of the screen, moving the mouse pointer down, and then clicking Search), entering Personalization in the search box, tapping or clicking Settings, and then tapping or clicking Personalization.
+In Personalization in Control Panel, there are four types of themes.
+• My Themes. Themes that you've created, made changes to, saved, or downloaded. Any time you change a theme, the new settings appear here as an unsaved theme.
+• Windows Default Themes. Windows themes you can use to personalize your PC. Most of them include a desktop background slide show.
+• Installed Themes. Themes that were created by your PC manufacturer or other non-Microsoft providers.
+• High Contrast Themes. Themes that make items on your screen easier to see. The High Contrast themes don't include automatic window border colors or desktop background slide shows.
+Creating themes
+You’re not limited to the themes that come with Windows—you can create customized themes using your own pictures and screen savers, and choose the colors and sounds that go along with them. To get started, tap or click any theme to apply it to your desktop. Then change each part of the theme until the desktop background, window border color, sounds, and screen saver are just how you want them to be. All of your changes will be saved under My Themes as an unsaved theme.
+
+An unsaved theme
+To create a theme
+1. Open Personalization by swiping in from the right edge of the screen, tapping Search (or if you're using a mouse, pointing to the upper-right corner of the screen, moving the mouse pointer down, and then clicking Search), entering Personalization in the search box, tapping or clicking Settings, and then tapping or clicking Personalization.
+2. To change the desktop background, tap or click Desktop Background, browse to the pictures you want to use, select the check boxes for the pictures that you want to include in your slide show, and then tap or click Save changes. 
+3. To change the color of your window borders and taskbar, tap or click Window Color, and then do one of 
+the following:
+Tap or click Automatic to let Windows choose a color automatically based on the colors in your desktop background picture, and then tap or click Save changes
+– or –
+Tap or click the color that you want to use, and then tap or click Save changes.
+
+The automatic window color option
+4. To change the sounds you hear when something happens on your computer, tap or click Sounds, tap or click an item in the Sound Scheme list, and then tap or click OK. 
+5. To add or change a screen saver, tap or click Screen Saver, tap or click an item in the Screen saver list, change any settings to suit your preference, and then tap or click OK. 
+Once you're happy with the way your new theme looks and sounds, save it so you can use it any time.
+To save a theme
+1. Open Personalization by swiping in from the right edge of the screen, tapping Search (or if you're using a mouse, pointing to the upper-right corner of the screen, moving the mouse pointer down, and then clicking Search), entering Personalization in the search box, tapping or clicking Settings, and then tapping or clicking Personalization.
+2. Under My Themes, tap or click your unsaved theme to apply it to the desktop.
+3. Tap or click Save theme.
+4. Enter a name for your theme, and then tap or click Save.
+The new theme name will appear under My Themes.
+Sharing themes
+Once you've saved a theme, you can share it with your friends and family. To send your theme to other people, first you'll need to save it in a file format that can be shared, called a .themepack file. 
+1. Open Personalization by swiping in from the right edge of the screen, tapping Search (or if you're using a mouse, pointing to the upper-right corner of the screen, moving the mouse pointer down, and then clicking Search), entering Personalization in the search box, tapping or clicking Settings, and then tapping or clicking Personalization.
+2. Tap or click your customized theme to apply it to the desktop.
+3. Press and hold or right-click the theme, and then tap or click Save theme for sharing.
+
+Saving a theme
+4. In the File name box, enter a name for your theme, and then tap or click Save.
+You can share your theme using email, a network, or an external drive.
+Deleting themes
+If you're no longer using a theme you've created or downloaded, you can delete it from your PC to save on disk space. (The themes that come with Windows can't be deleted.)
+1. Tap or click a different theme to apply it to the desktop. You can't delete a theme while it's being used.
+2. Press and hold or right-click the theme that you want to delete, and then tap or click Delete theme. 
+Get more themes
+You can find more themes to add to your collection in the Personalization Gallery on the Windows website.
+Get more Info about the pictures
+If you're curious about the pictures that are included in a particular theme, you can see more info about them, including titles and the locations where the photos were taken. (This info might not be available for 
+some pictures.) 
+1. Open Personalization by swiping in from the right edge of the screen, tapping Search (or if you're using a mouse, pointing to the upper-right corner of the screen, moving the mouse pointer down, and then clicking Search), entering Personalization in the search box, tapping or clicking Settings, and then tapping or clicking Personalization.
+2. Tap or click a theme to apply it to the desktop, and then tap or click Desktop Background.
+3. Press and hold or point to a picture to see more info about it.
+Note:
+You can't change the default font or font color used for items in Windows (like window title bars, menus, or tooltips). But you can make all of the text (and other things like icons) on your screen larger, or you can change the text size for specific items without changing the size of anything else on the screen. To learn more, see Make the text on your screen larger or smaller.
+Where is Control Panel?
+In Windows 8 and Windows RT, there are a few different ways to find and change your settings: Control Panel, the Settings charm, PC settings, and Search. Most of the settings that you'll want to change can be found in 
+PC settings.
+
+Play video on Where is Control Panel? page
+Watch a video about finding and changing settings (http://windows.microsoft.com/en-US/windows-8/where-is-control-panel.)
+To open PC settings
+• Swipe in from the right edge of the screen, tap Settings, and then tap Change PC settings.
+(If you're using a mouse, point to the upper-right corner of the screen, move the mouse pointer down, click Settings, and then click Change PC settings.)
+
+PC settings screen with General settings highlighted
+In PC settings, you can personalize the Start and lock screens, customize the Search and Share charms, add user accounts, and change various other settings.
+To open Control Panel
+• Open Control Panel by swiping in from the right edge of the screen, tapping Search (or if you're using a mouse, pointing to the upper-right corner of the screen, moving the mouse pointer down, and then clicking Search), entering Control Panel in the search box, tapping or clicking Apps, and then tapping or clicking Control Panel.
+
+Control Panel
+Control Panel has familiar settings like themes and desktop backgrounds, Family Safety, screen resolution, 
+and more.
+To open the Settings charm
+• Swipe in from the right edge of the screen, and then tap Settings.
+(If you're using a mouse, point to the upper-right corner of the screen, move the mouse pointer down, and then click Settings.)
+In the Settings charm, you'll find settings, help, and info for the app you're in, plus a few common PC settings—network connection, volume, brightness, notifications, power, and keyboard. These PC settings are the same no matter where you are in Windows, but the app settings are different in every app. 
+To search for settings
+If you're not sure where to find the settings you're looking for, you can search your PC.
+1. Swipe in from the right edge of the screen, and then tap Search.
+(If you're using a mouse, point to the upper-right corner of the screen, move the mouse pointer down, and then click Search.) 
+2. Enter a word or phrase in the Search box, tap or click Settings, and then select from the list of results.
+How to use the taskbar
+You can customize the taskbar, including the way taskbar buttons look, how they group together when you have more than one window open, change where the taskbar is on your desktop, and decide what icons and apps are on it.
+
+The taskbar
+Rearrange taskbar buttons
+• To rearrange the order of app buttons on the taskbar, drag a button from its current position to a different position on the taskbar. You can rearrange apps as often as you like.
+Note:
+All open files from the same app are always grouped together, even if you didn’t open them one after the other. This is so you can see all of the previews for that app at the same time. 
+Move the taskbar
+Usually, you can find the taskbar at the bottom of the desktop, but you can move it to the sides or top of the desktop. Before you can move the taskbar, you need to unlock it.
+To unlock the taskbar
+• Press and hold or right-click an empty space on the taskbar. If Lock the taskbar has a check mark next to it, the taskbar is locked. You can unlock it by tapping or clicking Lock the taskbar, which removes the 
+check mark.
+
+To move the taskbar
+• Do one of the following:
+– Tap an empty space on the taskbar, and then drag it to one of the four edges of the desktop. When the taskbar is where you want it, let go. 
+– (If you're using a mouse, click an empty space on the taskbar, and then hold down the mouse button as you drag the taskbar to one of the four edges of the desktop. When the taskbar is where you want it, release the mouse button.)
+Note:
+To lock the taskbar into place, press and hold or right-click an empty space on the taskbar, and then tap or click Lock the taskbar so that the check mark appears. This helps make sure that the taskbar doesn't accidentally get moved or resized.
+Change how taskbar buttons appear
+You can choose how buttons are grouped together when there's more than one window open, and change the size of taskbar button icons.
+1. Open Taskbar Properties by swiping in from the right edge of the screen, tapping Search (or if you're using a mouse, pointing to the upper-right corner of the screen, moving the mouse pointer down, and then clicking Search), entering Taskbar in the search box, tapping or clicking Settings, and then tapping or 
+clicking Taskbar.
+2. On the Taskbar tab, select one of the options from the Taskbar buttons list:
+? Always combine, hide labels
+This is the default setting. Each app appears as a single, unlabeled button, even when multiple windows for that app are open.
+? Combine when taskbar is full
+This setting shows each window as an individual, labeled button. When the taskbar becomes crowded, apps with multiple open windows collapse into a single app button. Tap or clicking the button displays a list of the windows that are open.
+? Never combine
+This setting shows each window as an individual, labeled button, and never combines them, no matter how many windows are open. As more apps and windows open, buttons get smaller, and eventually the buttons will scroll. 
+3. To use small taskbar button icons, select the Use small taskbar buttons check box. To use large icons, clear the check box.
+4. Tap or click OK.
+
+Pin an app to the taskbar
+You can pin an app directly to the taskbar for quick and easy access.
+1. Swipe in from the right edge of the screen, and then tap Search.
+(If you're using a mouse, point to the upper-right corner of the screen, move the mouse pointer down, and then click Search.) In the search box, enter the name of the app you want to pin. Then, on the search results page, tap or click the app to open it on the desktop.
+2. On the desktop, press and hold or right-click the app's button on the taskbar to open the app’s Jump List (a list of shortcuts to recently opened files, folders, and websites), and then tap or click Pin this program 
+to taskbar.
+
+Pin an app to the taskbar for easy access.
+Note:
+•	To remove a pinned app from the taskbar, open the app's Jump List, and then tap or click Unpin 	this program from taskbar.
+•	Folders and shortcuts to folders appear in the File Explorer Jump List.
+Customize the notification area
+The notification area is located at the far right side of the taskbar, and it contains app icons that provide status and notifications about things like incoming email, updates, and network connectivity. You can change which icons and notifications appear there.
+
+To hide an Icon in the notification area
+• In the notification area at the far right of the taskbar, tap or click the icon you want to hide, and then drag it toward the desktop. 
+Tip:
+•	If you want to re-add a hidden icon, tap or click the Show hidden icons arrow next to the 	notification area , and then drag the icon you want to move back to the notification area. 	You can drag as many hidden icons as you want.
+•	You can rearrange icons that appear in the notification area—just drag an icon to a 
+	different spot.
+To view hidden icons
+• Tap or click the Show hidden icons arrow  next to the notification area.
+To change how icons and notifications appear in the notification area
+1. Press and hold or right-click an empty area on the taskbar, and then tap or click Properties.
+2. Next to Notification area, tap or click Customize.
+3. For each icon, select one of these options, and then tap or click OK:
+? Show icon and notifications. The icon is always in the notification area of the taskbar and 
+notifications appear.
+? Hide icon and notifications. The icon is hidden and you won't see notifications for that app.
+? Only show notifications. The icon is hidden, but notifications will appear.
+Take a look at the desktop
+You can use the Show desktop button at the right end of the taskbar to minimize your open windows and get to the desktop quickly. And if you're using a mouse, you can also use it to preview the desktop without closing or minimizing your open windows.
+To minimize all of the open windows on the desktop
+1. Tap or click the Show desktop button at the right end of the taskbar. All of the open windows minimize, revealing the desktop. 
+2. To get the windows back, tap or click the Show desktop button again.
+To turn on desktop preview
+Note:
+•	You can only change this setting if you're using a mouse.
+•	Right-click the Show desktop button at the right end of the taskbar and click Peek at desktop.
+
+Use the Show desktop button to show the desktop or peek at it. 
+To preview the desktop
+Note:
+Desktop preview only works if you're using a mouse.
+1. Point to the Show desktop button at the right end of the taskbar. The open windows fade from view, revealing the desktop. 
+2. To make the windows reappear, move the mouse away from the Show desktop button. 
+Change taskbar settings for multiple displays
+If you're using more than one display (for example, if you have more than one monitor), you can decide whether you want to have a taskbar on all of your displays, and how you want buttons to be arranged on the taskbars.
+To show a taskbar on all of your displays
+1. Open Taskbar Properties by swiping in from the right edge of the screen, tapping Search (or if you're using a mouse, pointing to the upper-right corner of the screen, moving the mouse pointer down, and then clicking Search), entering Taskbar in the search box, tapping or clicking Settings, and then tapping or 
+clicking Taskbar.
+2. Under Multiple displays, make sure the Show taskbar on all displays check box is selected, and then tap or click OK.
+To choose how taskbar buttons are shown on multiple displays
+1. Open Taskbar Properties by swiping in from the right edge of the screen, tapping Search (or if you're using a mouse, pointing to the upper-right corner of the screen, moving the mouse pointer down, and then clicking Search), entering Taskbar in the search box, tapping or clicking Settings, and then tapping or 
+clicking Taskbar.
+2. Under Multiple displays, select one of the options from the Show taskbar buttons on: list, and then tap or click OK.
+? All taskbars
+The taskbar buttons for all of your open windows will be duplicated on the taskbars on each display.
+? Main taskbar and taskbar where window is open
+This setting shows a taskbar button on your main monitor and duplicates it on the taskbar on the display where the window is open.
+? 
+Taskbar where window is open
+This setting shows a taskbar button only on the display where the window is open. None of the buttons are duplicated on other taskbars.
+Adding apps, websites, and more to Start
+You can easily access what you use most by pinning your favorite apps, websites, and more to the Start screen. There are several ways to do this.
+Play video on Adding apps, websites, and more to Start page.
+Watch a video about adding apps, websites, and more to Start (http://windows.microsoft.com/en-US/windows-8/adding-apps-websites-to-start). 
+
+
+
+
+To pin this to StartDo thisApps from the Windows Store They are automatically pinned to Start when you install them.All other apps1. Swipe in from the right edge of the screen, and then tap Search.
+(If you're using a mouse, point to the upper-right corner of the screen, move the mouse pointer down, and then click Search.)
+2. Enter the app name, or scroll until you find it.
+3. Swipe down on or right-click the app to select it.
+4. Tap or click Pin to Start. Things you use frequently, like websites and contacts1. Open the app you want to use, such as Microsoft Internet Explorer or the 
+People app. 
+2. Select the item you want to pin to Start.
+3. Tap or click Pin to Start. 
+4. Enter a name or short description, and then tap or click Pin to Start. The tile is added at the far side of Start. 
+Note:
+Some apps might have different steps or might not support pinning items to Start. For more info, check Help for the app.Folders you use frequently, like Documents or Pictures1. Open File Explorer by swiping in from the right edge of the screen, tapping Search (or if you're using a mouse, pointing to the upper-right corner of the screen, moving the mouse pointer down, and then clicking Search), entering File Explorer in the search box, tapping or clicking Apps, and then tapping or clicking 
+File Explorer.
+2. Browse to the folder you want to pin, press and hold or right–click it, then tap or click Pin to Start. To unpin something from Start, swipe down on it or right-click it, and then tap or click Unpin from Start.
+To learn more about how to rearrange tiles, see Rearranging tiles on Start.
+Connect multiple monitors to your PC
+Connecting another monitor to your laptop or desktop is a great way to get the best out of your PC. You can use one monitor for work (programming, files, work email) and the other for play (chatting with friends, social updates, or movies). 
+Connect another screen to your PC
+• To connect a monitor to your desktop PC, use a video card that has two DVI (or VGA) ports—most PCs today do, and most flat panel monitors have a matching port. If you have a video card with two ports, you can usually just plug two monitors into the matching ports. Look on the back of your desktop PC for the video ports, and match the cable from each monitor to the corresponding port. These ports connect directly to your video card. 
+• If you have a laptop or tablet, plug a monitor into the PC’s DVI, VGA, or HDMI port, and Windows 8 will automatically detect the monitor.
+In both cases, you might need an adapter to plug a DVI cable into a VGA port or vice versa.
+Note:
+If you have a video card with only one port, some PC makers include custom monitor cables that split the signal from one port to two monitors. 
+Set up your screens
+Once you plug in your screen, you can choose your display options. To do that:
+1. Swipe in from the right edge of the screen, and then tap Devices.
+(If you're using a mouse, point to the upper-right corner of the screen, move the mouse pointer down, and then click Devices.)
+2. Tap or click Second screen and then choose one of these options:
+? Duplicate. You’ll see the same things on both screens.
+? Extend. Your screen is now spread over two monitors, and you can drag and move items between 
+the two.
+? Second screen only. You’ll see everything on the connected screen, and the other one will remain blank.
+Sync your settings
+A Microsoft account—an email address and password—is a new way to sign in to any PC running Windows 8 or Windows RT. When you sign in with a Microsoft account, your PC is connected to the cloud, and many of the settings, preferences, and apps associated with your account can "follow" you between different PCs.
+You can sync your Personalization and Ease of Access settings so that all your accessibility selections are reflected in your computer settings.
+Your personal settings are automatically synced online and between the Windows 8 and Windows RT PCs you use. This includes items like your themes, language preferences, browser favorites and history, and content for Microsoft apps and services Find out more (http://windows.microsoft.com/en-US/windows-8/microsoft-account#1TC=t1).
+
+Mouse and Keyboard
+Mouse and keyboard: What's new in Windows
+Most of what you know about using a mouse and keyboard with Windows has stayed the same, especially in the desktop. Here are a few ways to use the new Windows 8 and Windows RT features with a mouse and with keyboard shortcuts—and how to find some familiar things in new places. 
+To do thisWith a mouseWith a keyboardOpen the charms (Search, Share, Start, Devices, and Settings).Point to the upper-right or lower-right corner to see the charms. (Try moving so 
+far into the corner that the mouse pointer disappears.) When the charms appear, move up or down the edge to click the one 
+you want.
+All charms: Windows logo key +C 
+Search charm: Windows logo key +Q 
+Share charm: Windows logo key +H 
+Start charm: Windows logo key 
+Devices charm: Windows logo key +K 
+Settings charm: Windows logo key +I Search your PC (apps, settings, and files), the web, or within 
+an app. Point to the upper-right or lower-right corner to see the charms. (Try moving so far into the corner that the mouse pointer disappears.) When the charms appear, move up or down the edge, click Search, and then enter your search term. If you want to search settings, files, or another app, click 
+that option. If you’re on Start, just start typing your search term.
+If you want to see a list of all apps on your PC, right-click the Start screen, and then click 
+All apps. 
+Search within apps or find an app: Windows logo key +Q 
+Search settings: Windows logo key +W 
+Search files: Windows logo key +F Go to Start.Point to the lower-left corner. When Start appears, click the corner.
+Point to the upper-right or lower-right corner to see the charms. (Try moving so far into the corner that the mouse pointer disappears.) When the charms appear, move up or down the edge, and then click Start. Press the Windows logo key on your keyboard. Get to commands and 
+context menus. Right-click to see commands and context menus. Right-clicking on items often brings up options specific to that item.
+Windows logo key +Z 
+Use Tab or arrows keys to highlight things, and then press the space bar or Enter.Switch between recently 
+used apps. To switch to your most recently used app, point to the upper-left corner. (Try moving it so far into the corner that the mouse pointer disappears.) When the previous app appears, click the corner.
+To switch to a different app, point to the upper-left corner and then move down slightly. When the other apps appear, click the one you want.
+Windows logo key +Tab Snap an app to use two apps 
+side by side.
+Note:
+Your screen resolution must be at least 1366 x 768 to snap apps. To check this setting:
+Open Screen Resolution by swiping in from the right edge of the screen, tapping Search (or if you're using a mouse, pointing to the upper-right corner of the screen, moving the mouse pointer down, and then clicking Search), entering Display in the search box, tapping or clicking Settings, and then tapping or clicking Display.
+The desktop is treated as a single app.Move your pointer into the upper-left corner until the second app appears, and then drag that app to the left or right side of the screen until an opening appears 
+behind it.
+You can also point to the upper-left corner and then move the pointer down to see the apps you've used recently. Click and drag the app you want to snap.
+Keep the app that size, or resize it to fill 
+two-thirds or the full screen.Windows logo key +Period Open the desktop.Go to Start, and then click the Desktop tile. Windows logo key +D Zoom in or outOn Start, use the zoom icon in the 
+lower-right corner or Ctrl+Scrollwheel. Ctrl+Plus sign to zoom in
+Ctrl+Minus sign to 
+zoom outClose an app Point to the top edge of the screen, and then click and drag the app to the bottom of the screen. 
+You can also close apps you've used recently by pointing to the upper-left corner and then pulling down. Right-click the one you want. and then select Close.Alt+F4 Shut downPoint to the upper-right or lower-right corner to see the charms. (Try moving so far into the corner that the mouse pointer disappears.) When the charms appear, move up or down the edge, and then click Settings. Click Power, and then select a shutdown option. Press Ctrl+Alt+Del. 
+Use the Tab key to move to the Power icon. A list of shutdown options appears. 
+Use the up or down arrow keys to get to the option you want.
+Press Enter.How to use the touch keyboard
+You can use different keyboards with Windows to fit your needs. The most common is a physical, external keyboard that you plug into your PC. Windows 8 and Windows RT also include a touch keyboard for PCs 
+with touch.
+
+Play video on the How to use the touch keyboard webpage.
+Watch a video about using the touch keyboard (http://windows.microsoft.com/en-US/windows-8/using-touch-keyboard/).
+To use the touch keyboard, tap in a text field or other area where you can type. The keyboard appears automatically.
+
+The touch keyboard
+In some places that you type, the touch keyboard suggests words so you can correct misspellings with a tap. And, the keyboard layout automatically adjusts to the language you choose for Windows.
+If you're using a tablet, you might want to switch to the thumb keyboard, which splits the keys on either side of the screen, making it easier and more comfortable to use.
+
+Note:
+The thumb keyboard might not be available in all languages.
+
+The thumb keyboard
+Tip:
+Here are a few tips when you're using the touch keyboard:
+•	Switch between the touch keyboard and thumb keyboard by tapping the keyboard icon in the 	lower-right corner of the keyboard.
+•	Close the keyboard by tapping outside the text box or by using the keyboard icon.
+•	Use keyboard shortcuts by tapping the Ctrl key and then tapping another key.
+•	Turn Caps Lock on and off by double-tapping the Up Arrow key.
+•	Automatically insert a period by double-tapping the Spacebar.
+•	If you're looking for some fun characters, tap the Emoticon key.
+If you want to open the touch keyboard manually (without tapping in a text field or other area where you can type), here's how:
+1. Swipe in from the right edge of the screen, and then tap Settings.
+(If you're using a mouse, point to the upper-right corner of the screen, move the mouse pointer down, and then click Settings.)
+2. Tap the Keyboard icon.
+3. Tap Touch keyboard and handwriting panel.
+4. Tap where you want to type.
+Touch: swipe, tap, and beyond
+If you want to know what we mean when we mention swipe, tap, or other ways to interact with Windows 8 or Windows RT when you’re using a touchscreen, take a look at this table.
+
+
+What we sayHow to do itWhat it doesTap
+Tap once on the item.Opens whatever you tap. Similar to clicking with a mouse.Press and hold
+Press your finger down and leave it there for a few seconds.Shows info to help you learn more about an item.
+Opens a menu specific to what you're doing. Similar to right-clicking with 
+a mouse.Pinch or stretch to zoom
+Touch the screen or an item with two or more fingers, and then move the fingers toward each other (pinch) or away from each other (stretch).Shows different levels of info. A good place to explore this is the Start screen.
+Visually zooms in or out, like with pictures or maps.Rotate
+Put two or more fingers on an item and then turn your hand.Rotates things in the direction you turn your hand. Only some items can 
+be rotated.Slide to scroll
+Drag your finger on the screen.Moves through what’s on the screen. Similar to scrolling with a mouse.Slide to rearrange
+Press and drag an item in the opposite direction you would scroll. (For example, if you would scroll left or right, drag the item up or down.) When you've moved the item to the new location, release it.Moves an item. Similar to dragging with a mouse. A good place to explore this is the Start screen.Swipe to select
+Slide an item a short distance in the opposite direction compared to how the page scrolls. (For example, if you would scroll left or right, slide the item up or down.) A quick, short movement works best.Selects an item, like a photo or tile on Start. This often brings up app commands.Swipe from edge
+Starting on the edge, swipe in.• Right edge: Opens the charms (Search, Share, Start, Devices, Settings).
+• Left edge: 
+– Brings in open apps.
+– Snaps apps. Swipe in from the left edge and drag the app until a divider appears, and then move the app where you want it. Slide the divider to adjust app size.
+– Shows your recently opened apps. Swipe in from the left edge without lifting your finger, and then push the app back toward the left edge.
+– Closes apps. Swipe an app from the list without lifting your finger, and then drag it to the bottom of the screen.
+• Top or bottom edge: 
+– Shows commands, like New 
+and Refresh.
+– Closes apps. Swipe down from the top without lifting your finger, and then drag the app to the bottom of the screen.
+
+
+Note:
+•	Your screen must be a touchscreen to use these interactions. To check your pen and 
+	touch settings:
+	Open System by swiping in from the right edge of the screen, tapping Search (or if you're using 	a mouse, pointing to the upper-right corner of the screen, moving the mouse pointer down, and 	then clicking Search), entering System in the search box, tapping or clicking Settings, and then 	tapping or clicking System.
+•	Your screen resolution must be at least 1366 x 768 to snap apps. To check this setting:
+	Open Screen Resolution by swiping in from the right edge of the screen, tapping Search (or if 	you're using a mouse, pointing to the upper-right corner of the screen, moving the mouse 	pointer down, and then clicking Search), entering Display in the search box, tapping or clicking 	Settings, and then tapping or clicking Display.
+To learn about how to do similar tasks using a mouse and keyboard, see Mouse and keyboard: What's new in Windows. For more on using the new features, see Get to know Windows. 
+Touch and pen settings: Frequently asked questions
+Here are answers to some common questions about touch and pen settings. 
+How do I check if my PC has a touchscreen?
+Try using your finger to tap a tile on Start. If it’s a touchscreen, the app will open. You can also check your current system settings with your mouse:
+From Start, click the Desktop tile.
+1. Point to the upper-right corner of the screen, move the mouse pointer down, and then click Settings.
+2. Click PC info.
+3. Under System, check the Pen and Touch setting. If your PC’s screen is a touchscreen, it will describe what input it supports.
+
+Pen and Touch info under System
+Touch input is on by default and can’t be turned off. If you expect your laptop or monitor to respond to touch and it doesn’t, check the manufacture’s website to make sure it supports touch and that you have the correct 
+drivers installed.
+How do I calibrate my pen and touch settings?
+To adjust how accurately your screen senses when you use a pen or finger:
+1. Swipe in from the right edge of the screen, and then tap Search.
+(If you're using a mouse, point to the upper-right corner of the screen, move the mouse pointer down, and then click Search.)
+2. Enter calibrate in the search box, tap or click Settings, and then tap or click Calibrate the screen for pen or touch input to open Tablet PC Settings.
+3. Check that the monitor shown in the Display field matches the screen you want to calibrate.
+4. Tap or click Calibrate, and then follow the on-screen instructions.
+
+Tablet PC Settings
+How do I get my touchscreen to go to the correct screen?
+1. Swipe in from the right edge of the screen, and then tap Search.
+(If you're using a mouse, point to the upper-right corner of the screen, move the mouse pointer down, and then click Search.)
+2. Enter calibrate in the search box, tap or click Settings, and then tap or click Calibrate the screen for pen or touch input to open Tablet PC Settings.
+3. Tap or click Setup, and then follow the on-screen instructions.
+
+Tablet PC Settings
+How do I change my pen and touch actions?
+To change how fast, far, or long an action takes:
+1. Swipe in from the right edge of the screen, and then tap Search.
+(If you're using a mouse, point to the upper-right corner of the screen, move the mouse pointer down, and then click Search.)
+2. Enter pen and touch in the search box, tap or click Settings, and then tap or click Pen and Touch.
+3. Tap or click the action you want to configure, and then click Settings. Follow the on-screen instructions.
+
+Pen and Touch Settings
+Change keyboard settings
+If you want to make the keyboard easier to use, you can change the settings to suit your needs.
+1. Swipe in from the right edge of the screen, and then tap Search.
+(If you're using a mouse, point to the upper-right corner of the screen, move the mouse pointer down, and then click Search.)
+2. In the search box, enter Change how your keyboard works, tap or click Settings, and then tap or click Change how your keyboard works.
+3. Select the options that you want to use:
+? Turn on Mouse Keys. If using a mouse is awkward or hard to use, you can turn on Mouse Keys so you don’t need to use the mouse. Instead, you can use the arrow keys on your keyboard or use the numeric keypad to move the pointer. For more info, type Move the pointer with the keypad using Mouse Keys, in the search box, then tap or click Settings.
+? Turn on Sticky Keys. With Sticky Keys turned on, you won’t have to press complicated key combos. For example, instead of pressing the Ctrl+Alt+Del keys at the same time, you can press keys one at a time.
+? Turn on Toggle Keys. Toggle Keys play an alert each time you press the Caps Lock, Num Lock, or Scroll Lock keys. These notifications can help prevent the frustration of inadvertently pressing a key and not realizing it.
+? Turn on Filter Keys. When you turn on Filter Keys, Windows will ignore keystrokes that occur in rapid succession, or keystrokes that are held down for several seconds unintentionally.
+? Underline keyboard shortcuts and access keys. This option makes keyboard access in dialog boxes easier by highlighting the access keys of the controls. For more info about keyboard shortcuts, see Keyboard shortcuts.
+? Prevent windows from being automatically arranged when moved to the edge of the screen. With this option, you can prevent windows from automatically resizing and docking along the sides of your screen when you move them.
+Note:
+•	If you prefer to use your PC without using a keyboard, try using On-Screen Keyboard, a tool that 	lets you enter text by selecting characters on the screen. For more info, see 
+	Use On-Screen Keyboard to type. 
+•	If you're looking for new ways to use a mouse and keyboard, see 
+	Mouse and keyboard: What’s new in Windows.
+Change the keyboard layout
+You can add a keyboard layout to a language and switch to using that if you want to use the same layout to type in different languages or don't want to use the default one that Windows provides. 
+To change the keyboard layout for a language
+1. Swipe in from the right edge of the screen, and then tap Search.
+(If you're using a mouse, point to the upper-right corner of the screen, move the mouse pointer down, and then click Search.)
+2. Enter language, choose Settings, and then tap or click Add a language.
+3. Select the language that you want to add a keyboard layout to.
+4. Tap or click Options next to the language name, and then under Input method, tap or click Add an 
+input method.
+5. Browse the input method list or use the search box to find the keyboard layout you want to use.
+6. Double-tap or double-click the keyboard layout, and then tap or click Save.
+
+Change mouse settings
+If you want to make the mouse easier to use, you can change the settings to suit your needs.
+To change the mouse settings
+1. Swipe in from the right edge of the screen, and then tap Search.
+(If you're using a mouse, point to the upper-right corner of the screen, move the mouse pointer down, and then click Search.)
+2. In the search box, enter Change how your mouse works, tap or click Settings, and then tap or click Change how your mouse works.
+3. Select the options that you want to use:
+? Change the color and size of mouse pointers. You can use these options to make the mouse pointer larger, or change the color to make it easier to see.
+? Turn on Mouse Keys. You can use this option to control the movement of the mouse pointer by using the numeric keypad. For more info, type Move the pointer with the keypad using Mouse Keys, in the search box, then tap or click Settings.
+? Activate a window by hovering over it with the mouse. This option makes it easier to select and activate a window by pointing at it with the mouse rather than by clicking it.
+? Prevent windows from being automatically arranged when moved to the edge of the screen. This option prevents windows from automatically resizing and docking along the sides of your screen when you move them there.
+Note:
+•	If you prefer to use your PC without using a mouse, try using Windows Speech Recognition, a 	tool that lets you use voice commands to work with Windows. For more info, see Using 
+	Speech Recognition.
+•	If you're looking for new ways to use a mouse and keyboard, see Mouse and keyboard: What’s 	new in Windows.
+Use the numeric keypad to move the mouse pointer
+When you turn on Mouse Keys, you can move the mouse pointer using the numeric keypad on your keyboard instead of using a mouse.
+To turn on Mouse Keys
+1. Swipe in from the right edge of the screen, and then tap Search.
+(If you're using a mouse, point to the upper-right corner of the screen, move the mouse pointer down, and then click Search.)
+2. Tap or click Settings.
+3. In the search box, enter Change how your mouse works, and then tap or click Change how your 
+mouse works.
+4. Under Control the mouse with the keyboard, select the Turn on Mouse Keys check box, and then or 
+click OK.
+Moving the pointer using Mouse Keys
+After you turn on Mouse Keys, you can use the numeric keypad to move the mouse.
+To move the mouse pointerPressUp8Down2Right6Left4Up and to the left7Up and to the right9Down and to the left1Down and to the right3Selecting a mouse button
+Before you use Mouse Keys to click items on your screen, you’ll first need to select which mouse button you want to be the active button: the left button, the right one, or both.
+ToPressSelect the left mouse buttonThe forward slash (/)Select both buttonsThe asterisk (*)Select the right mouse buttonThe minus sign (-)Note:
+If you choose to make the left mouse button the active button, it will remain the active button until you choose another button. After you select a mouse button, you don't need to select a mouse button again until you want to change buttons.
+Clicking items using Mouse Keys
+After you choose a button, you can click items on your screen.
+ToDo thisClick an itemWith the left button selected as your active button, point to the item, and then press 5Right-click an itemWith the right button selected as your active button, point to the item, and then press 5Double-click an itemWith the left button selected as your active button, point to the item, and then press the plus sign (+)Dragging items using Mouse Keys
+You can use the numeric keypad to press and hold the active mouse button and to release it. This is helpful if you want to drag an item.
+ToDo thisDrag an itemPoint to the item, and then press zero (0)Drop the itemPoint to the location where you want to move the item, and then press the decimal point (.)Note:
+•	You can also turn on Mouse Keys by pressing Left Alt+Left Shift+Num Lock.
+•	To change how quickly the mouse pointer moves, whether your computer makes a sound when 	you turn on Mouse Keys, and other options, in the Ease of Access Center, under Control the 	mouse with the keyboard, click Set up Mouse Keys.
+
+
+Keyboard Shortcuts
+Keyboard shortcuts are combinations of two or more keys that you can use to perform a task that would typically require a mouse or other pointing device. Keyboard shortcuts can make it easier to work with your PC, saving you time and effort as you work with Windows and other apps.
+Most apps also provide accelerator keys that can make it easier to work with menus and other commands. Check the menus of apps for accelerator keys. If a letter of a word is underlined in a menu, it usually means you can press the Alt key and the underlined key together instead of clicking that menu item. When you're using a touch keyboard, you can also see some shortcuts when you press the Ctrl key.
+Pressing the Alt key in some apps, such as Paint and WordPad, shows commands that are labeled with additional keys that you can press to use them.
+Note:
+If you're looking for new ways to use a mouse and keyboard, see Mouse and keyboard:
+What's new in Windows.
+New keyboard shortcuts for Windows 8 and Windows RT
+With Windows 8 and Windows RT, you can use the keyboard shortcuts you're already using, and you'll find new ones too. For example, the easiest way to search on the Start screen is to simply start typing. Not on the Start screen? Press the Windows logo key? and you can quickly switch between Start and the app you're in.
+If you’re not familiar with keyboard shortcuts—or you’d like to see a list of shortcuts in one place—see the bigger list of keyboard shortcuts.
+Useful keyboard shortcuts for Windows
+Press thisTo do thisWindows logo key? +
+start typingSearch your PCCtrl+plus (+) or Ctrl+minus (-)Zoom in or out of a large number of items, like apps pinned to the 
+Start screenCtrl+scroll wheelZoom in or out of a large number of items, like apps pinned to the 
+Start screenWindows logo key? +COpen the charmsWindows logo key? +FOpen the Search charm to search filesWindows logo key? +HOpen the Share charmWindows logo key? +IOpen the Settings charmWindows logo key? +JSwitch the main app and snapped appWindows logo key? +KOpen the Devices charmWindows logo key? +OLock the screen orientation (portrait or landscape)Windows logo key? +QOpen the Search charm to search appsWindows logo key? +WOpen the Search charm to search settingsWindows logo key? +ZShow the commands available in the appWindows logo key? + spacebarSwitch input language and keyboard layoutWindows logo key? + Ctrl+spacebarChange to a previously selected inputWindows logo key? +TabCycle through open apps (except desktop apps)Windows logo key? + Ctrl+TabCycle through open apps (except desktop apps) and snap them as they 
+are cycledWindows logo key? + Shift+TabCycle through open apps (except desktop apps) in reverse orderWindows logo key? +
+PgUpMove the Start screen and apps to the monitor on the left (Apps in the desktop won’t change monitors)Windows logo key? + PgDownMove the Start screen and apps to the monitor on the right (apps in the desktop won’t change monitors)Windows logo key? + Shift+period (.)Snaps an app to the leftWindows logo key? +
+period (.)Snaps an app to the rightComplete list of keyboard shortcuts
+General keyboard shortcuts
+The following table contains general keyboard shortcuts that you can use to navigate around Windows.
+Press this keyTo do thisF1Display HelpF2Rename the selected itemF3Search for a file or folderF4Display the address bar list in File ExplorerF5Refresh the active windowF6Cycle through screen elements in a window or on the desktopF10Activate the menu bar in the active appAlt+F4Close the active item, or exit the active appAlt+EscCycle through items in the order in which they were openedAlt+underlined letterPerform the command for that letterAlt+EnterDisplay properties for the selected itemAlt+SpacebarOpen the shortcut menu for the active windowAlt+Left arrowBackAlt+Right arrowForwardAlt+Page UpMove up one screenAlt+Page DownMove down one screenAlt+TabSwitch between open apps (except desktop apps)Ctrl+F4Close the active document (in apps that allow you to have multiple documents open simultaneously)Ctrl+ASelect all items in a document or windowCtrl+C (or Ctrl+Insert)Copy the selected itemCtrl+D (or Delete)Delete the selected item and move it to the Recycle BinCtrl+R (or F5)Refresh the active windowCtrl+V (or Shift+Insert)Paste the selected itemCtrl+XCut the selected itemCtrl+YRedo an actionCtrl+ZUndo an actionCtrl+plus (+) or Ctrl+minus (-)Zoom in or out of a large number of items, like apps pinned to the 
+Start screenCtrl+ mouse scroll wheelChange the size of desktop icons or zoom in or out of a large number of items, like apps pinned to the Start screenCtrl+Right arrowMove the cursor to the beginning of the next wordCtrl+Left arrowMove the cursor to the beginning of the previous wordCtrl+Down arrowMove the cursor to the beginning of the next paragraphCtrl+Up arrowMove the cursor to the beginning of the previous paragraphCtrl+Alt+TabUse the arrow keys to switch between all open appsCtrl+arrow key (to move to an item)+SpacebarSelect multiple individual items in a window or on the desktopCtrl+Shift with an arrow keySelect a block of textCtrl+EscOpen the Start screenCtrl+Shift+EscOpen Task ManagerCtrl+ShiftSwitch the keyboard layout when multiple keyboard layouts are availableCtrl+SpacebarTurn the Chinese input method editor (IME) on or offShift+F10Display the shortcut menu for the selected itemShift with any arrow keySelect more than one item in a window or on the desktop, or select text within a documentShift+DeleteDelete the selected item without moving it to the Recycle Bin firstRight arrowOpen the next menu to the right, or open a submenuLeft arrowOpen the next menu to the left, or close a submenuEscStop or leave the current taskDialog box keyboard shortcuts
+The following table contains keyboard shortcuts that you can use to navigate dialog boxes.
+Press this keyTo do thisF1Display HelpF4Display the items in the active listCtrl+TabMove forward through tabsCtrl+Shift+TabMove back through tabsCtrl+number (number 1-9)Move to nth tabTabMove forward through optionsShift+TabMove back through optionsAlt+underlined letterPerform the command (or select the option) that goes with that letterSpacebarSelect or clear the check box if the active option is a check boxBackspaceOpen a folder one level up if a folder is selected in the Save As or Open dialog boxArrow keysSelect a button if the active option is a group of option buttonsFile Explorer keyboard shortcuts
+The following table contains keyboard shortcuts for working with File Explorer windows or folders.
+Press this keyTo do thisAlt+DSelect the address barCtrl+ESelect the search boxCtrl+FSelect the search boxCtrl+NOpen a new windowCtrl+WClose the current windowCtrl+mouse scroll wheelChange the size and appearance of file and folder iconsCtrl+Shift+EDisplay all folders above the selected folderCtrl+Shift+NCreate a new folderNum Lock+asterisk (*)Display all subfolders under the selected folderNum Lock+plus (+)Display the contents of the selected folderNum Lock+minus (-)Collapse the selected folderAlt+PDisplay the preview paneAlt+EnterOpen the Properties dialog box for the selected itemAlt+Right arrowView the next folderAlt+Up arrowView the folder that the folder was inAlt+Left arrowView the previous folderBackspaceView the previous folderRight arrowDisplay the current selection (if it's collapsed), or select the first subfolderLeft arrowCollapse the current selection (if it's expanded), or select the folder that the folder was inEndDisplay the bottom of the active windowHomeDisplay the top of the active windowF11Maximize or minimize the active windowTaskbar keyboard shortcuts
+The following table contains keyboard shortcuts for working with items on the desktop taskbar.
+Press this keyTo do thisShift+click a taskbar buttonOpen an app or quickly open another instance of an appCtrl+Shift+click a 
+taskbar buttonOpen an app as an administratorShift+right-click a
+taskbar buttonShow the window menu for the appShift+right-click a 
+grouped taskbar buttonShow the window menu for the groupCtrl+click a grouped
+taskbar buttonCycle through the windows of the groupWindows logo key keyboard shortcuts
+The following table contains keyboard shortcuts that use the Windows logo key .
+Press this keyTo do thisWindows logo key +F1Open Windows Help and SupportWindows logo key Display or hide the Start screenWindows logo key +BSet focus in the notification areaWindows logo key +COpen the CharmsWindows logo key +DDisplay and hide the desktopWindows logo key +EOpen ComputerWindows logo key +FOpen the Search charm and search for filesWindows logo key +GCycle through Gadgets on the desktopWindows logo key +HOpen the Share charmWindows logo key +IOpen the Settings charmWindows logo key +JSwitch the main app and snapped appWindows logo key +KOpen the Devices charmWindows logo key +LLock your PC or switch usersWindows logo key +MMinimize all windowsWindows logo key +OLock device orientationWindows logo key +PChoose a presentation display modeWindows logo key +QOpen the Search charm and search for appsWindows logo key +ROpen the Run dialog boxWindows logo key +TCycle through apps on the taskbarWindows logo key +UOpen Ease of Access CenterWindows logo key +VCycle through notificationsWindows logo key +Shift+VCycle through notifications in reverse orderWindows logo key +WOpen the Search charm and search for settingsWindows logo key +XOpen the Quick Link menuWindows logo key +ZShow the commands available in the appWindows logo key +,Temporarily peek at the desktopWindows logo key +PauseDisplay the System Properties dialog boxWindows logo key +Ctrl+FSearch for PCs (if you're on a network)Windows logo key +Shift+MRestore minimized windows on the desktopWindows logo key +numberStart the desktop app pinned to the taskbar in the position indicated by the number. If the app is already running, switch to that app.Windows logo key + Shift+numberStart a new instance of the desktop app pinned to the taskbar in the position indicated by the numberWindows logo key + Ctrl+numberSwitch to the last active window of the desktop app pinned to the taskbar in the position indicated by the numberWindows logo key + Alt+numberOpen the Jump List for the desktop app pinned to the taskbar in the position indicated by the numberWindows logo key + Ctrl+Shift+numberOpen a new instance of the desktop app located at the given position on the taskbar as an administratorWindows logo key +TabCycle through open apps (except desktop apps)Windows logo key + Ctrl+TabCycle through open apps (except desktop apps) and snap them as they are cycledWindows logo key + Shift+TabCycle through open apps (except desktop apps) in reverse orderWindows logo key +Ctrl+BSwitch to the app that displayed a message in the notification areaWindows logo key + 
+Up arrowMaximize the desktop windowWindows logo key +
+Down arrowMinimize the desktop windowWindows logo key +
+Left arrowMaximize the desktop window to the left side of the screenWindows logo key +
+Right arrowMaximize the desktop window to the right side of the screenWindows logo key +
+HomeMinimize all but the active desktop window (restores all windows on second stroke)Windows logo key + Shift+Up arrowStretch the desktop window to the top and bottom of the screenWindows logo key + Shift+Down arrowRestore/minimize active desktop windows vertically, maintaining widthWindows logo key + Shift+Left arrow or Right arrowMove a window in the desktop from one monitor to anotherWindows logo key + SpacebarSwitch input language and keyboard layoutWindows logo key + Ctrl+SpacebarChange to a previously selected inputWindows logo key +EnterOpen NarratorWindows logo key +
+Page UpMove the Start screen and apps to the monitor on the left (apps in the desktop won’t change monitors)Windows logo key +
+Page DownMove the Start screen and apps to the monitor on the right (apps in the desktop won’t change monitors)Windows logo key + Shift+period (.)Snap an app to the leftWindows logo key +
+period (.)Snap an app to the rightWindows logo key +/Initiate IME reconversionWindows logo key + Alt+EnterOpen Windows Media CenterWindows logo key +
+plus (+) or minus (-)Zoom in or out using MagnifierWindows logo key +EscExit Magnifier
+
+Calculator keyboard shortcuts
+The following table contains keyboard shortcuts for working with Calculator.
+Press this keyTo do thisF1Open Calculator HelpF2Edit the calculation historyAlt+1Switch to Standard modeAlt+2Switch to Scientific modeAlt+3Switch to Programmer modeAlt+4Switch to Statistics modeAlt+CCalculate or solve date calculations and worksheetsCtrl+EOpen date calculationsCtrl+HTurn calculation history on or offCtrl+LPress the MC buttonCtrl+MPress the MS buttonCtrl+PPress the M+ buttonCtrl+QPress the M- buttonCtrl+RPress the MR buttonCtrl+UOpen unit conversionCtrl+Shift+DClear the calculation historyF9Press the +/– buttonRPress the 1/× button@Press the square root buttonDelPress the CE buttonUp arrowNavigate up in the calculation historyDown arrowNavigate down in the calculation historyEscPress the C button or stop editing the calculation historyEnterRecalculate the calculation history after editingF3Select Degrees in Scientific modeF4Select Radians in Scientific modeF5Select Grads in Scientific modeCtrl+BPress the 3?x button in Scientific modeCtrl+GPress the 10x button in Scientific modeCtrl+OPress the cosh button in Scientific modeCtrl+SPress the sinh button in Scientific modeCtrl+TPress the tanh button in Scientific modeCtrl+YPress the y?x button in Scientific modeDPress the Mod button in Scientific modeIPress the Inv button in Scientific modeLPress the log button in Scientific modeMPress the dms button in Scientific modeNPress the ln button in Scientific modeOPress the cos button in Scientific modePPress the pi button in Scientific modeQPress the x^2 button in Scientific modeSPress the sin button in Scientific modeTPress the tan button in Scientific modeVPress the F-E button in Scientific modeXPress the Exp button in Scientific modeYPress the x^y button in Scientific mode#Press the x^3 button in Scientific mode;Press the Int button in Scientific mode!Press the n! button in Scientific modeF2Select Dword in Programmer modeF3Select Word in Programmer modeF4Select Byte in Programmer modeF5Select Hex in Programmer modeF6Select Dec in Programmer modeF7Select Oct in Programmer modeF8Select Bin in Programmer modeF12Select Qword in Programmer modeA-FPress the A-F buttons in Programmer modeJPress the RoL button in Programmer modeKPress the RoR button in Programmer mode<Press the Lsh button in Programmer mode>Press the Rsh button in Programmer mode%Press the Mod button in Programmer mode|Press the Or button in Programmer mode^Press the Xor button in Programmer mode~Press the Not button in Programmer mode&Press the And button in Programmer modeSpacebarToggles the bit value in Programmer modeAPress the Average button in Statistics modeCtrl+APress the Average Sq button in Statistics modeSPress the Sum button in Statistics modeCtrl+SPress the Sum Sq button in Statistics modeTPress the S.D. button in Statistics modeCtrl+TPress the Inv S.D. button in Statistics modeDPress the CAD button in Statistics modeCalendar keyboard shortcuts
+The following table contains keyboard shortcuts for working with the Calendar appapp.
+Press this keyTo do thisCtrl+1Show the day viewCtrl+2Show the week viewCtrl+3Show the month viewCtrl+TGo to todayCtrl+NCreate a new eventPage upIn month view, go to the previous month
+In week view, go to the previous week
+In day view, go to the previous two daysCtrl+HIn month view, go to the previous month
+In week view, go to the previous week
+In day view, go to the previous two daysPage downIn month view, go to the next month
+In week view, go to the next week
+In day view, go to the next two daysCtrl+JIn month view, go to the next month
+In week view, go to the next week
+In day view, go to the next two daysRight arrowIn a view, go to the next dayLeft arrowIn a view, go to the previous dayDown arrowIn a view, go to the next hourUp arrowIn a view, go to the previous hourEscGo backCtrl+SSave or send the eventCtrl+P, use up and down arrows to selectRespond to an eventCtrl+DDelete an eventEase Of Access keyboard shortcuts
+The following table contains keyboard shortcuts that can help make your PC easier to use.
+Press this keyTo do thisRight Shift for eight secondsTurn Filter Keys on and offLeft Alt+left Shift+Print ScreenTurn High Contrast on or offLeft Alt+left Shift+Num LockTurn Mouse Keys on or offShift five timesTurn Sticky Keys on or offNum Lock for five secondsTurn Toggle Keys on or offWindows logo key +UOpen the Ease of Access CenterInternet Explorer keyboard shortcuts
+You can find shortcuts for Internet Explorer at Internet Explorer shortcuts.
+Magnifier keyboard shortcuts
+The following table contains keyboard shortcuts for working with Magnifier.
+Press this keyTo do thisWindows logo key +plus (+) or minus (-)Zoom in or outCtrl+Alt+SpacebarPreview the desktop in full-screen modeCtrl+Alt+DSwitch to docked modeCtrl+Alt+FSwitch to full-screen modeCtrl+Alt+IInvert colorsCtrl+Alt+LSwitch to lens modeCtrl+Alt+RResize the lensCtrl+Alt+arrow keysPan in the direction of the arrow keysWindows logo key +EscExit MagnifierMail keyboard shortcuts
+The following table contains keyboard shortcuts for working with the Mail app.
+Press this keyTo do thisCtrl+RReplyCtrl+Shift+RReply allCtrl+FForwardCtrl+Shift+FHide or show the Folder paneCtrl+Shift+AHide or show the Accounts paneCtrl+UMark as unreadCtrl+QMark as readCtrl+ASelect all messagesCtrl+NNew MessageF5SyncAlt+BPut focus on the bcc buttonAlt+CPut focus on the cc button
+AcceptAlt+DDeclineAlt+SSend mailAlt+TPut focus on the To button
+TentativeAlt+VOpen the invitation in CalendarCtrl+EnterSend mailCtrl+Shift+FSelect a fontCtrl+SpacebarClear formattingCtrl+YRedoF4RedoCtrl+[Increase font size one pointCtrl+]Decrease font size one pointCtrl+Shift+,Decrease font sizeCtrl+Shift+.Increase font sizeCtrl+KAdd a linkCtrl+ECenterCtrl+LLeftCtrl+RRightCtrl+Shift+LBulletsCtrl+MIndentCtrl+Shift+MOutdentTab or Shift+TabIndent/outdent when text is selected of when focus is in a listCtrl+'Acute accentCtrl+,Cedilla accentCtrl+Shift+6Circumflex accentCtrl+Shift+;Diaeresis accentCtrl+`Grave accentCtrl+Shift+7Ligature accentCtrl+Shift+2Ring accentCtrl+/Slash accentCtrl+Shift+`Tilde accentAlt+Ctrl+Shift+1Inverted exclamation markAlt+Ctrl+Shift+/Inverted question markMessaging keyboard shortcuts
+The following table contains keyboard shortcuts for working with the Messaging app.
+Press this keyTo do thisCtrl+NStart a new conversationCtrl+NOpen the people pickerCtrl+EOpen or close the emoticon pickerCtrl+>Next conversationCtrl+<Previous conversationNarrator keyboard shortcuts
+The following table contains keyboard shortcuts for working with Narrator.
+Press this keyTo do thisSpacebar or EnterActivate current itemTab and arrow keysMove around on the screenCtrlStop readingCaps Lock+DRead itemCaps Lock+MStart readingCaps Lock+HRead documentCaps Lock+VRepeat phraseCaps Lock+WRead windowCaps Lock+Page Up or 
+Page DownIncrease or decrease the volume of the voiceCaps Lock+plus (+) or minus (-)Increase or decrease the speed of the voiceCaps Lock+SpacebarDo default actionCaps Lock+Left or Right arrowsMove to previous/next itemCaps Lock+F2Show commands for current itemPress Caps Lock twice in 
+quick successionTurn Caps Lock on or offCaps+EscExit Narrator
+
+Narrator touch keyboard shortcuts
+The following table contains keyboard shortcuts for working with Narrator on a four-point touch-enabled PC.
+Press this keyTo do thisTap once with two fingersStop Narrator from readingTap three times with four fingersShow all Narrator commands (including the ones not in this list)Double-tapActivate primary actionTriple-tapActivate secondary actionTouch or drag a single fingerRead what’s under your fingersFlick left/right with one fingerMove to next or previous itemSwipe left/right/up/down with two fingersScrollSwipe down with three fingersStart reading on explorable textPaint keyboard shortcuts
+The following table contains keyboard shortcuts for working with Paint.
+Press this keyTo do thisF1Open Paint HelpF11View a picture in full-screen modeF12Save the picture as a new fileCtrl+ASelect the entire pictureCtrl+BBold selected textCtrl+CCopy a selection to the ClipboardCtrl+EOpen the Properties dialog boxCtrl+GShow or hide gridlinesCtrl+IItalicize selected textCtrl+NCreate a new pictureCtrl+OOpen an existing pictureCtrl+PPrint a pictureCtrl+RShow or hide the rulerCtrl+SSave changes to a pictureCtrl+UUnderline selected textCtrl+VPaste a selection from the ClipboardCtrl+WOpen the Resize and Skew dialog boxCtrl+XCut a selectionCtrl+YRedo a changeCtrl+ZUndo a changeCtrl+plus (+)Increase the width of a brush, line, or shape outline by one pixelCtrl+minus (-)Decrease the width of a brush, line, or shape outline by one pixelCtrl+Page UpZoom inCtrl+Page DownZoom outAlt (or F10)Display keytipsAlt+F4Close a picture and its Paint windowRight arrowMove the selection or active shape right by one pixelLeft arrowMove the selection or active shape left by one pixelDown arrowMove the selection or active shape down by one pixelUp arrowMove the selection or active shape up by one pixelShift+F10Show the current shortcut menuPeople App keyboard shortcuts
+The following table contains keyboard shortcuts for the People app.
+Press this keyTo do thisCtrl+NAdd a contactCtrl+SSave changesDeleteDelete a contactCtrl+FMake a contact a favoriteCtrl+Shift+1Pin a contact to StartEscGo backHomeGo to beginning of contact listPage downGo forward in the contact listPage up Go backwards in the contact listEnd Go to end of the contact listReader keyboard shortcuts
+The following table contains keyboard shortcuts for working with the Reader app.
+Press this keyTo do thisF8Use two-page layoutCtrl+RRotate the file 90 degrees clockwiseCtrl+FFind text in a fileF7Use keyboard selection modeCtrl+PPrint a fileCtrl+OOpen a fileCtrl+WClose a fileCtrl+MReader app homeRemote Desktop Connection on the desktop keyboard shortcuts
+The following table contains keyboard shortcuts for working with Remote Desktop Connection on the desktop.
+Press this keyTo do thisAlt+Page UpMove between apps from left to rightAlt+Page DownMove between apps from right to leftAlt+InsertCycle through apps in the order that they were startedAlt+HomeDisplay the Start screenCtrl+Alt+BreakSwitch between a window and full screenCtrl+Alt+EndDisplay the Windows Security dialog boxCtrl+Alt+HomeIn full-screen mode, activate the connection barAlt+DeleteDisplay the system menuCtrl+Alt+minus (-) on the numeric keypadPlace a copy of the active window, within the client, on the Terminal server clipboard (provides the same functionality as pressing Alt+Print Screen on a local PC)Ctrl+Alt+plus (+) on the numeric keypadPlace a copy of the entire client window area on the Terminal server clipboard (provides the same functionality as pressing Print Screen on a local PC)Ctrl+Alt+Right arrow“Tab” out of the Remote Desktop controls to a control in the host app (for example, a button or a text box). Useful when the Remote Desktop controls are embedded in another (host) app.Ctrl+Alt+Left arrow“Tab” out of the Remote Desktop controls to a control in the host app (for example, a button or a text box). Useful when the Remote Desktop controls are embedded in another (host) app.
+
+Remote Desktop Connection keyboard shortcuts
+The following table contains keyboard shortcuts for working with Remote Desktop Connection.
+Press this keyTo do thisCtrl+Alt+HomeToggle appbars between the remote PC and the one in front of youCtrl+Alt+Left arrowSwitch your view to the previous session (when viewing a session)Ctrl+Alt+Right arrowSwitch your view to the next session (when viewing a session)Ctrl+Alt+Up arrowSwitch your view to the first session (when viewing a session)Ctrl+Alt+Down arrowSwitch your view to the last session (when viewing a session)Skydrive keyboard shortcuts
+The following table contains keyboard shortcuts for working with SkyDrive.
+Press this keyTo do thisCtrl+ASelect allCtrl+Alt+1Change view (details/thumbnails)Ctrl+UUploadCtrl+Shift+NNew folderEscClear selectionCtrl+OOpen withCtrl+Alt+OView folderCtrl+Shift+VCopyCtrl+Shift+YMoveCtrl+SDownloadAlt+Up arrowGo upF2RenameF5RefreshWindows Help viewer keyboard shortcuts
+The following table contains keyboard shortcuts for working with the Help viewer.
+Press this keyTo do thisF3Move the cursor to the search boxF10Display the Options menuHomeMove to the beginning of a topicEndMove to the end of a topicAlt+Left arrowMove back to the previously viewed topicAlt+Right arrowMove forward to the next (previously viewed) topicAlt+HomeDisplay the Help and Support home pageAlt+ADisplay the customer support pageAlt+CDisplay the Table of ContentsAlt+NDisplay the Connection Settings menuCtrl+FSearch the current topicCtrl+PPrint a topicWindows Journal keyboard shortcuts
+The following table contains keyboard shortcuts for working with Windows Journal.
+Press this keyTo do thisF1Open Journal HelpF5Refresh the note listF6Toggle between a note list and a noteF11View a note in full-screen modeCtrl+ASelect all items on a pageCtrl+CCopy a selection to the ClipboardCtrl+FFind text in a fileCtrl+GGo to a pageCtrl+NStart a new noteCtrl+OOpen a recently used noteCtrl+PPrint a noteCtrl+SSave changes to a noteCtrl+VPaste a selection from the ClipboardCtrl+XCut a selectionCtrl+YRedo a changeCtrl+ZUndo a changeAlt+F4Close a note and its Journal windowCtrl+Shift+CDisplay a shortcut menu for column headings in a note listCtrl+Shift+VMove a note to a specific folderWordpad keyboard shortcuts
+The following table contains keyboard shortcuts for working with WordPad.
+Press this keyTo do thisF1Open WordPad HelpF3Find the next instance of the text in the Find dialog boxF10Display keytipsF12Save the document as a new fileCtrl+1Set single line spacingCtrl+2Set double line spacingCtrl+5Set line spacing to 1.5Ctrl+ASelect the entire documentCtrl+BMake selected text boldCtrl+CCopy a selection to the ClipboardCtrl+DInsert a Microsoft Paint drawingCtrl+EAlign text centerCtrl+FFind text in a documentCtrl+HReplace text in a documentCtrl+IItalicize selected textCtrl+JJustify textCtrl+LAlign text leftCtrl+NCreate a new documentCtrl+OOpen an existing documentCtrl+PPrint a documentCtrl+RAlign text rightCtrl+SSave changes to a documentCtrl+UUnderline selected textCtrl+VPaste a selection from the ClipboardCtrl+XCut a selectionCtrl+YRedo a changeCtrl+ZUndo a changeCtrl+=Make selected text subscriptCtrl+Shift+=Make selected text superscriptCtrl+Shift+>Increase the font sizeCtrl+Shift+<Decrease the font sizeCtrl+Shift+AChange characters to all capitalsCtrl+Shift+LChange the bullet styleCtrl+Left arrowMove the cursor one word to the leftCtrl+Right arrowMove the cursor one word to the rightCtrl+Up arrowMove the cursor to the previous lineCtrl+Down arrowMove the cursor to the line belowCtrl+HomeMove to the beginning of the documentCtrl+EndMove to the end of the documentCtrl+Page UpMove up one pageCtrl+Page DownMove down one pageCtrl+DeleteDelete the next wordAlt+F4Close WordPadShift+F10Show the current shortcut menu
+
+
+Overview of Accessibility in Windows 811
+
+
+
+Ease of Access18
+
+Personalization51
+
+Mouse and Keyboard67
+
+Keyboard Shortcuts89
+
+
