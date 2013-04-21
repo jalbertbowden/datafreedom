@@ -14,9 +14,7 @@ font-weight:700; font-style:normal}
   src:url(//:) format("no404"), url("segeo-ui/segeo-ui-light/segeo-ui-light-webfont.woff") format("woff"), url("segeo-ui/segeo-ui-light/segeo-ui-light-webfont.ttf") format("truetype"), url("segeo-ui/segeo-ui-light/segeo-ui-light-webfont.svgz#SegoeUILight") format("svg"), url("segeo-ui/segeo-ui-light/segeo-ui-light-webfont.svg#SegoeUILight") format("svg");
 font-weight:200; font-style:normal}
 
-html,body,header,section,footer,div,figure,figcaption,img,h1,h2,h3,h4,h5,h6,a,i,article,table,caption,thead,tbody,tr,th,td{}
 *{margin:0; padding:0; border:none}
-html,body{}
 body{font-family:"SegoeUINormal", sans-serif; font-weight:200; font-size:110%;}
 
 .content{}
@@ -25,14 +23,17 @@ header{background-color:#5b1c74; height:100px; width:100%; margin-bottom:5em; po
 .headertoc{}
 
 .main{clear:right; float:none}
-article{width:90%; margin-right:auto; margin-left:auto; outline:1px solid #000}
+article{width:90%; margin-right:auto; margin-left:auto}
 section{padding-bottom:5em}
 .section-doc{}
 
 figure{text-align:center; margin-top:.15em; margin-bottom:.5em}
 .figimg{display:block; margin-left:auto; margin-right:auto}
 figcaption{text-align:center; font-size:1.75em; font-style:italic; letter-spacing:-1px; padding-top:.5em; padding-bottom:.2em}
+li figcaption{font-size:1em}
 img{}
+table img{display:block; margin:0 auto}
+table .imginline{display:inline}
 
 .imginline{}
 .icon{}
@@ -82,22 +83,28 @@ li li li{font-size:1.25em}
 
 .toc-sub-sub li{margin-bottom:.25em}
 
-
+abbr{font-variant:small-caps}
 
 .note{margin:.3em auto; width:90%; background-color:#f0ddf7; border:1px solid #949494; padding:1em}
 .note p,.note li{font-style:italic}
 .note p{margin:0; padding:0}
 .note strong{font-style:normal}
 
+li .note p{font-size:1em}
+
 footer{position:relative; height:100px; border-top:1px solid #000; width:90%; margin-left:auto; margin-right:auto}
 .pageno{background-color:#5b1c74; position:absolute; right:0; top:0; width:300px; display:block; text-align:center; text-decoration:none; line-height:100px; height:100%; color:#fff}
 
-table{margin-top:1em; margin-bottom:1em; outline:1px solid #000}
-table p{font-size:inherit; margin:0; padding:0}
-caption{}
-thead{}
+table{margin:2em auto; width:90%; border-collapse:collapse; border-spacing:0; -moz-box-shadow:0 0 4px #000; -ms-box-shadow:0 0 4px #000; -o-box-shadow:0 0 4px #000; -webkit-box-shadow:0 0 4px #000; box-shadow:0 0 4px #000}
+table p{ margin:0; padding:.2em}
+caption{font-size:1.5em; padding-top:.25em; padding-bottom:.25em}
+thead{background-color:#5b1c74; border-top:1px solid #000; border-bottom:1px solid #000}
 tbody{}
+tbody tr{border-bottom:1px solid #000}
 tr{}
-th{}
-td{}
-
+th{color:#fff; font-weight:700; font-size:1.75em; padding-top:.5em; padding-bottom:.75em}
+td,td p,td li{font-size:1.5em}
+.smallertext td,.smallertext td p,.smallertext td li{font-size:1.1em}
+.fixsmallertext td{font-size:1.1em}
+.fixsmallertext td p{font-size:inherit}
+.w30{width:30%}
